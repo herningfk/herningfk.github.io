@@ -1,5 +1,5 @@
 title = "Herning Faldskærmsklub"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://herningfk.github.io"
 languageCode = "da-DK"
 theme = ["ananke"]
 resourceDir = "../resources"

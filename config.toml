@@ -30,7 +30,6 @@ enableRobotsTXT = true
   text_color = ""
   date_format = "2. January 2006"
   author = "IT Advice"
-  favicon = "/images/parachute.png"
   site_logo = "/images/parachute.png"
   description = "Hjemmesiden for Herning Faldskærmsklub"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"

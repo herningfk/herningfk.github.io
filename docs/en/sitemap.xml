@@ -2,121 +2,121 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/</loc>
+    <loc>https://herningfk.github.io/en/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://gohugo-theme-ananke.pages.dev/"
+                href="https://herningfk.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/"
+                href="https://herningfk.github.io/en/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/post/chapter-1/</loc>
+    <loc>https://herningfk.github.io/en/post/chapter-1/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://gohugo-theme-ananke.pages.dev/post/chapter-1/"
+                href="https://herningfk.github.io/post/chapter-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/post/chapter-1/"
+                href="https://herningfk.github.io/en/post/chapter-1/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/tags/scene/</loc>
+    <loc>https://herningfk.github.io/en/tags/scene/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://gohugo-theme-ananke.pages.dev/tags/scene/"
+                href="https://herningfk.github.io/tags/scene/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/tags/scene/"
+                href="https://herningfk.github.io/en/tags/scene/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/tags/</loc>
+    <loc>https://herningfk.github.io/en/tags/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://gohugo-theme-ananke.pages.dev/tags/"
+                href="https://herningfk.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/tags/"
+                href="https://herningfk.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/post/</loc>
+    <loc>https://herningfk.github.io/en/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://gohugo-theme-ananke.pages.dev/post/"
+                href="https://herningfk.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/post/"
+                href="https://herningfk.github.io/en/post/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/about/</loc>
+    <loc>https://herningfk.github.io/en/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://gohugo-theme-ananke.pages.dev/about/"
+                href="https://herningfk.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/about/"
+                href="https://herningfk.github.io/en/about/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/categories/</loc>
+    <loc>https://herningfk.github.io/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://gohugo-theme-ananke.pages.dev/categories/"
+                href="https://herningfk.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/categories/"
+                href="https://herningfk.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/en/contact/</loc>
+    <loc>https://herningfk.github.io/en/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://gohugo-theme-ananke.pages.dev/contact/"
+                href="https://herningfk.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/contact/"
+                href="https://herningfk.github.io/en/contact/"
                 />
   </url>
 </urlset>

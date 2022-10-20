@@ -1,5 +1,5 @@
 ---
-title: "Ananke: Un thème pour Hugo"
+title: "Herning Skydiving Club"
 
 description: "Le dernier thème dont vous aurez besoin. Peut-être"
 cascade:

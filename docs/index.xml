@@ -1,79 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on HFK</title>
+    <title>Herning Faldskærmsklub on HFK</title>
     <link>https://herningfk.github.io/</link>
-    <description>Recent content in Ananke: a Hugo Theme on HFK</description>
+    <description>Recent content in Herning Faldskærmsklub on HFK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da-DK</language>
-    <lastBuildDate>Sat, 09 Apr 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://herningfk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://herningfk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chapter I: The Grand Hall</title>
-      <link>https://herningfk.github.io/post/tandem/</link>
-      <pubDate>Sat, 09 Apr 2022 10:58:08 -0400</pubDate>
+      <title>Snoninger</title>
+      <link>https://herningfk.github.io/post/snoninger/</link>
+      <pubDate>Mon, 09 May 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://herningfk.github.io/post/tandem/</guid>
-      <description></description>
+      <guid>https://herningfk.github.io/post/snoninger/</guid>
+      <description>Alle faldskærmsspringere oplever til tider snoninger. Om det er fordi XXX. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.</description>
     </item>
     
     <item>
-      <title>Chapter VI: Esmeralda</title>
-      <link>https://herningfk.github.io/post/chapter-6/</link>
+      <title>CP</title>
+      <link>https://herningfk.github.io/post/swoop/</link>
+      <pubDate>Tue, 13 Apr 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://herningfk.github.io/post/swoop/</guid>
+      <description>Skriv et eller andet om canopy piloting, swoop etc ? Nogle fede billeder, og The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.</description>
+    </item>
+    
+    <item>
+      <title>Formationsspring</title>
+      <link>https://herningfk.github.io/post/fs/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>https://herningfk.github.io/post/chapter-6/</guid>
+      <guid>https://herningfk.github.io/post/fs/</guid>
       <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
     </item>
     
     <item>
-      <title>Chapter V: Quasimodo</title>
-      <link>https://herningfk.github.io/post/chapter-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      <title>Bliv medlem</title>
+      <link>https://herningfk.github.io/membership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://herningfk.github.io/post/chapter-5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
+      <guid>https://herningfk.github.io/membership/</guid>
+      <description>Her skal der stå noget om indmeldelse Fordele osv&amp;hellip;. Check out Formspree for a simple, free form service.</description>
     </item>
     
     <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://herningfk.github.io/post/chapter-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <title>Elever</title>
+      <link>https://herningfk.github.io/student/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://herningfk.github.io/post/chapter-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
+      <guid>https://herningfk.github.io/student/</guid>
+      <description>Hos HFK i Herning uddanner vi elever efter AFF princippet. Det står for ACCELERATED FREEFALL og betyder at man i løbet af ganske få spring, overvået af en instruktør, kan få lov til at springe fra 4km HELT ALENE. Det tager typisk 7 spring at opnå den nødvendige stabilitet, og man er under hele forløbet i trygge omgivelse og hjulpet af meget erfarne instruktører.
+Når man har vist instruktørerne at man kan være stabil i luften, er det tid til at lære fritfaldsteknikker som &amp;lsquo;slowfall-fastfall&amp;rsquo;, &amp;lsquo;swoop-to-pin&amp;rsquo; samt avancerede teknikker i skærmflyvning.</description>
     </item>
     
     <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
-      <link>https://herningfk.github.io/post/chapter-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      
-      <guid>https://herningfk.github.io/post/chapter-3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
-    </item>
-    
-    <item>
-      <title>Chapter II: Pierre Gringoire</title>
-      <link>https://herningfk.github.io/post/chapter-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://herningfk.github.io/post/chapter-2/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
-    </item>
-    
-    <item>
-      <title>Chapter I: The Grand Hall</title>
-      <link>https://herningfk.github.io/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://herningfk.github.io/post/chapter-1/</guid>
-      <description>Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
-The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
+      <title>Kontakt</title>
       <link>https://herningfk.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -82,12 +63,23 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
     </item>
     
     <item>
-      <title>Om os</title>
+      <title>Om HFK</title>
       <link>https://herningfk.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://herningfk.github.io/about/</guid>
-      <description>Herning Faldskærmsklub er en klub under Danmarks Faldskærmsunion som blev skabt i 20XX for at skabe sammenhold blandt springere i det midtjyske. Vi bor tilleje hos Dropzone Danmark, og springer fra deres caravan OY-RUL.</description>
+      <description>Herning Faldskærmsklub er en klub under Danmarks Faldskærmsunion som blev skabt i 2016 for at skabe sammenhold blandt springere i det midtjyske. Vi bor tilleje hos Dropzone Danmark, og springer fra deres caravan OY-RUL.
+M. Bay og T. Gilbert (2021) Foreningen modtager støtte fra Herning Idrætsråd til dække af husleje, og har en bestyrelse som består af formand, næstformand, kasserer&amp;hellip;og BEstyrelsen vælges til generalforsamingen, som afholdes årligt ved sæsonstart.
+HFK er medlem af (DFU) Dansk Faldskærms Union som igennem 50 år har varetaget stort set alle former for faldskærmsspring i Danmark.</description>
+    </item>
+    
+    <item>
+      <title>Tandem</title>
+      <link>https://herningfk.github.io/tandem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://herningfk.github.io/tandem/</guid>
+      <description>Et tandemspring The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.</description>
     </item>
     
   </channel>

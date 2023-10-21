@@ -2,7 +2,7 @@
 title: Kontakt
 featured_image: ''
 omit_header_text: true
-description: We'd love to hear from you
+description: Skriv til os
 type: page
 menu: main
 

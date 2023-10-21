@@ -10,6 +10,6 @@ menu:
 
 Et tandemspring er noget de fleste mennesker drømmer om. Det kan være noget de har på deres _bucket list_, eller en sjov gave til en ven eller en poterabend. Alle der tager et tandemspring 
 
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Et eller andet fedt billede (2022)" >}}
+{{< figure src="https://res.cloudinary.com/dzanurchx/image/upload/v1697810239/hfksource/images/tandemguest_fjbdkk.jpg" title="Tandem instruktør med passager (2023)" >}}
 
 Et tandemspring The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. 

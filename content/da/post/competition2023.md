@@ -1,6 +1,6 @@
 ---
-date: 2022-10-28T17:00:00-00:00
-publishDate: 2022-09-28T17:00:00-00:00
+date: 2023-10-28T17:00:00-00:00
+publishDate: 2023-10-28T17:00:00-00:00
 description: "Kom med til en FED årsafslutning"
 featured_image: "https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666306258/hfksource/images/HFK_Klub_Compo2021_wddeik.jpg"
 author: "T. Gilbert"
@@ -19,7 +19,7 @@ Når vi er færdige, med fritfald, er der landings- PRÆS konkurrence for ALLE. 
 
 #### PROGRAMMET ER
 ##### Fredag d. 28/10 17:00 - Fælles aftensmad.
-1. Holdene sammensættes, som et mix, ud fra erfaring, fremmøde osv.
+1. Holdene bliver sammensættes, som et mix, ud fra erfaring, fremmøde osv.
 2. Coaching v. Peter Elias
 3. Vi øver exits, ruller på rullebrædder osv.
 4. Øøøøøøøl 🍻

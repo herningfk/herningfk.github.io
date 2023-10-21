@@ -17,6 +17,3 @@ Tryk på [dette link](kursus.dfu.dk/hfk) for at starte indmeldelsen.
 Når du har udfyldt sundhedserklæringen samt underskrevet med NemID, skive på 
 
 Måske skal alt det her stå under kontakt..... Der er jo ingen der melder sig ind, uden e n konvertering til DFU eller hvad ? Nogen skifter også klub...
-
-### TOKE
-Ja for pokkjer

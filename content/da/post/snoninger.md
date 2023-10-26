@@ -1,5 +1,5 @@
 ---
-date: 2022-05-09T10:58:08-04:00
+date: 2023-10-09T10:58:08-04:00
 description: "Formationsspring - for begyndere og de øvede"
 featured_image: "https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666304125/hfksource/images/snoning_klpjq9.png"
 author: "T. Gilbert"

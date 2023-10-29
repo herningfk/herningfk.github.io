@@ -22,7 +22,7 @@ Som medlem af HFK har du desuden en lang række fordele ved at springe i Herning
 ## USPA licenshaver
 Hvis du er USPA medlem og har mindst 40 spring, så kan vi konvertere din licens til et DFU-C certifikat. Vi har et forløb der hjælper dig igennem konverteringen, så du bliver bekendt med de danske regler i DFU kaldet ['Faldskærms Bestemmelser' samt 'Bestemmelser for Civil Luftfart'](https://www.dfu.dk/sites/default/files/faldskaermsbestemmelser2023.pdf).
 
-{{< button text="Bliv Medlem af DFU" link="https://kursus.dfu.dk/hfk" >}}
+{{< button text="Bliv Medlem af HFK" link="https://kursus.dfu.dk/hfk" >}}
 
 Når du har udfyldt formularen, skal du blot kontakte klubben og vi laver en plan for din konvertering.
 

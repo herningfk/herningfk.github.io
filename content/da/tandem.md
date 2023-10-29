@@ -12,9 +12,9 @@ Et tandemspring er noget de fleste mennesker drømmer om. Det kan være noget de
 
 {{< figure src="https://res.cloudinary.com/dzanurchx/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1697810239/hfksource/images/tandemguest_fjbdkk.jpg" title="Tandeminstruktør med passager (2023)" >}}
 
-Hos os er det muligt at få 4 vidt forskellige tandem oplevelser. Det er muligt at springe enten **uden** fritfaldsoplevelse fra 2 km, med ca. 50 sekunders fritfladsoplevelse fra 4,5km eller **HALO** med ILT fra enten 6km eller 7,6km. 
+Hos os er det muligt at få 4 vidt forskellige tandem oplevelser. Det er muligt at springe enten **uden** fritfaldsoplevelse fra 2 km, med ca. 50 sekunders fritfladsoplevelse fra 4,5km eller **HALO** med ILT fra enten 6km eller 7,6km.
 
-### Normalt spring uden ilt
+### Spring uden ilt
 
 {{< figure src="https://res.cloudinary.com/dzanurchx/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1698583548/happytandem_zob09v.jpg" >}}
 
@@ -49,7 +49,6 @@ Her får du det bedste fra begge verdener. Det håndholdte kamera fanger dit ans
 
 ## Spørgsmål
 
-Vores tandemspring bliver lavet i samarbejde med Dropzone Denmark, og har du spørgsmål er du velkommen til at kontakte Dropzone Denmark direkte. Dropzone Denmark er danmarks eneste professionelle faldskærmscenter. 
+Vores tandemspring bliver lavet i samarbejde med Dropzone Denmark, og har du spørgsmål er du velkommen til at kontakte Dropzone Denmark direkte eller udfylde nedenstående formular.
 
-- info@dropzonedenmark.dk
-- +45 2240 1117
+{{< hfkform >}}

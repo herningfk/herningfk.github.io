@@ -1,0 +1,9 @@
+<!-- layouts/shortcodes/button.html -->
+{{ $text := .Get "text" | default "Button" }}
+{{ $link := .Get "link" | default "#" }}
+
+<div style="display: flex; justify-content: center; align-items: center; padding: 10px;">
+    <a href="{{$link}}" style="text-decoration: none;">
+        <button style="background-color: #3498db; color: #fff; padding: 10px 20px; border: none; border-radius: 4px;">{{$text}}</button>
+    </a>
+</div>

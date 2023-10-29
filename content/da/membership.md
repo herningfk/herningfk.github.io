@@ -7,7 +7,6 @@ menu:
   main:
     weight: 1
 ---
-
 Der er mange fordele ved at være medlem af Herning Faldskærmsklub (*HFK*). Du får adgang til at springe i alle danske klubber, et fedt fællesskab i sporten, støtte til DIN personlige udvikling samt adgang til konkurrencer som f.eks. DM.
 
 Et medlemskab koster *1.500DKK* om året ved årlig betaling, eller *375DKK* i kvartalet.
@@ -31,3 +30,5 @@ Når du har udfyldt formularen, skal du blot kontakte klubben og vi laver en pla
 Hvis du er tidligere medlem af DFU eller bare ønsker at skifte klub skal du blot udfylde nedenstående PDF med dine personelige oplysninger og sende til til HFK's formand. 
 
 {{< button text="Skift klub til HFK" link="https://www.dfu.dk/sites/default/files/ab2.a_-_overflytning_genindmeldelse_skabelon.pdf" >}}
+
+{{< figure src="https://res.cloudinary.com/dzanurchx/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1698601088/hfksource/images/Screenshot_2021-06-28_at_21.42.50-2_kpb4me.jpg" title="Springer ud af Skyvan over Sunds (2022)" >}}

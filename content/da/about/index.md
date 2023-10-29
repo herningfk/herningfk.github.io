@@ -19,5 +19,3 @@ Foreningen modtager støtte fra Herning Idrætsråd til dække af husleje, og ha
 HFK er medlem af (DFU) _Dansk Faldskærms Union_ som igennem 50 år har varetaget stort set alle former for faldskærmsspring i Danmark. Udviklingen har været i fuld sving hele perioden. Fra de runde, lånte militærskærme i starten af 60’erne til nuværende flyvende fart over feltet med 5 discipliner, masser af undergrene dertil og ikke mindst flere forskellige typer af faldskærme til at indfri de mange muligheder i faldskærmssporten.
 
 {{< figure src="/images/dfu-logo.png" >}}
-
-Klubben 

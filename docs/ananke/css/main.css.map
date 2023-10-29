@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/tgilbert/code/herningfk.github.io",
+	"sourceRoot": "/Users/tgilbert/code/oldhfk",
 	"sources": [
 		"ananke/css/main.css"
 	],

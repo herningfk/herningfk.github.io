@@ -33,7 +33,7 @@ Hos os er det muligt at få 4 vidt forskellige tandem oplevelser. Det er muligt 
 
 ## Video
 
-Vi garantere at du får dit livs fedeste oplevelse med et tandemspring. Det er bare ærgeligt at det ovre så hurgigt. Du har heldigvis muligthed for at tiløbe forskellige videopakker så du kan genbesøge springet når du har lyst. Under bestillingen kan du vælge forskellige video pakker; handcam, outside og deluxe.
+Vi garanterer at du får dit livs fedeste oplevelse med et tandemspring. Det er bare ærgeligt at det ovre så hurgigt. Du har heldigvis muligthed for at tiløbe forskellige videopakker så du kan genbesøge springet når du har lyst. Under bestillingen kan du vælge forskellige video pakker; handcam, outside og deluxe.
 
 ### Handcam
 

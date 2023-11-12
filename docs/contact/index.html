@@ -56,173 +56,58 @@
   
   <header class="cover bg-top" style="background-image: url('https://res.cloudinary.com/dzanurchx/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1698601088/hfksource/images/Screenshot_2021-06-28_at_21.42.50-2_kpb4me.jpg');">
     <div class="bg-black-60">
-      <style>
-@import url(https://fonts.googleapis.com/css?family=Raleway);
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        HFK
+      
+    </a>
+    <div class="flex-l items-center">
+      
 
-.top-nav {
-  display: flex;
-}
-
-.menu {
-  display: flex;
-}
-
-.menu > li {
-  overflow: hidden;
-}
-
-.menu-button-container {
-  display: none;
-  height: 100%;
-  width: 30px;
-  cursor: pointer;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-#menu-toggle {
-  display: none;
-}
-
-.menu-button,
-.menu-button::before,
-.menu-button::after {
-  display: block;
-  background-color: #fff;
-  position: absolute;
-  height: 4px;
-  width: 30px;
-  transition: transform 400ms cubic-bezier(0.23, 1, 0.32, 1);
-  border-radius: 2px;
-}
-
-.menu-button::before {
-  content: '';
-  margin-top: -8px;
-}
-
-.menu-button::after {
-  content: '';
-  margin-top: 8px;
-}
-
-#menu-toggle:checked + .menu-button-container .menu-button::before {
-  margin-top: 0px;
-  transform: rotate(405deg);
-}
-
-#menu-toggle:checked + .menu-button-container .menu-button {
-  background: rgba(255, 255, 255, 0);
-}
-
-#menu-toggle:checked + .menu-button-container .menu-button::after {
-  margin-top: 0px;
-  transform: rotate(-405deg);
-}
-
-@media (max-width: 700px) {
-  .menu-button-container {
-    display: flex;
-  }
-  .menu {
-    position: absolute;
-    top: 0;
-    margin-top: 50px;
-    left: 0;
-    flex-direction: column;
-    width: 100%;
-    justify-content: center;
-    align-items: center;
-  }
-  #menu-toggle ~ .menu li {
-    height: 0;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
-  }
-  #menu-toggle:checked ~ .menu li {
-    border: 1px solid #333;
-    height: 2.5em;
-    padding: 0.5em;
-    transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
-  }
-  .menu > li {
-    display: flex;
-    justify-content: center;
-    margin: 0;
-    padding: 0.5em 0;
-    width: 100%;
-    color: white;
-    background-color: #222;
-  }
-  .menu > li:not(:last-child) {
-    border-bottom: 1px solid #444;
-  }
-}
-
-</style>
-
-<nav class="pv3 ph3 ph4-ns" role="navigation">
-    <div class="flex-l justify-between items-center center">
-      <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
-        
-          HFK
-        
-      </a>
-        <div class="top-nav flex-l items-center">
+      
+        <ul class="pl0 mr3">
           
-
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/membership/" title="">
+              Bliv medlem
+            </a>
+          </li>
           
-          <input id="menu-toggle" type="checkbox" />
-
-          <label class='menu-button-container' for="menu-toggle">
-            <div class='menu-button'></div>
-          </label>
-
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/tandem/" title="">
+              Tandem
+            </a>
+          </li>
           
-            <ul class="menu pl0 mr3">
-              
-              <li class="list f5 f4-ns fw4 dib pr3">
-                <a class="hover-white no-underline white-90" href="/membership/" title="">
-                  Bliv medlem
-                </a>
-              </li>
-              
-              <li class="list f5 f4-ns fw4 dib pr3">
-                <a class="hover-white no-underline white-90" href="/tandem/" title="">
-                  Tandem
-                </a>
-              </li>
-              
-              <li class="list f5 f4-ns fw4 dib pr3">
-                <a class="hover-white no-underline white-90" href="/student/" title="">
-                  Elever
-                </a>
-              </li>
-              
-              <li class="list f5 f4-ns fw4 dib pr3">
-                <a class="hover-white no-underline white-90" href="/about/" title="">
-                  Om HFK
-                </a>
-              </li>
-              
-              <li class="list f5 f4-ns fw4 dib pr3">
-                <a class="hover-white no-underline white-90" href="/post/" title="">
-                  Blog
-                </a>
-              </li>
-              
-              <li class="list f5 f4-ns fw4 dib pr3">
-                <a class="hover-white no-underline white-90" href="/contact/" title="">
-                  Kontakt
-                </a>
-              </li>
-              
-            </ul>
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/student/" title="">
+              Elever
+            </a>
+          </li>
           
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/about/" title="">
+              Om HFK
+            </a>
+          </li>
           
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/post/" title="">
+              Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="">
+              Kontakt
+            </a>
+          </li>
+          
+        </ul>
+      
+      
 <div class="ananke-socials">
   
     
@@ -238,9 +123,10 @@
   
 </div>
 
-        </div>
     </div>
-  </nav>
+  </div>
+</nav>
+
       <div class="tc-l pv6 ph3 ph4-ns">
         
       </div>

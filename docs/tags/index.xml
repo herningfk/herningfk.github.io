@@ -2,73 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HFK</title>
-    <link>https://herningfk.github.io/tags/</link>
+    <link>https://herningfk.dk/tags/</link>
     <description>Recent content in Tags on HFK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>da</language>
-    <lastBuildDate>Sun, 01 Oct 2023 17:00:00 +0000</lastBuildDate>
-    <atom:link href="https://herningfk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Dec 2023 22:56:00 +0000</lastBuildDate>
+    <atom:link href="https://herningfk.dk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024</title>
+      <link>https://herningfk.dk/tags/2024/</link>
+      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+      <guid>https://herningfk.dk/tags/2024/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>budget</title>
+      <link>https://herningfk.dk/tags/budget/</link>
+      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+      <guid>https://herningfk.dk/tags/budget/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>faldskærmsklub</title>
+      <link>https://herningfk.dk/tags/faldsk%C3%A6rmsklub/</link>
+      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+      <guid>https://herningfk.dk/tags/faldsk%C3%A6rmsklub/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>formand</title>
+      <link>https://herningfk.dk/tags/formand/</link>
+      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+      <guid>https://herningfk.dk/tags/formand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>generalforsamling</title>
+      <link>https://herningfk.dk/tags/generalforsamling/</link>
+      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+      <guid>https://herningfk.dk/tags/generalforsamling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>herning</title>
+      <link>https://herningfk.dk/tags/herning/</link>
+      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+      <guid>https://herningfk.dk/tags/herning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hfk</title>
+      <link>https://herningfk.dk/tags/hfk/</link>
+      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+      <guid>https://herningfk.dk/tags/hfk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>valg</title>
+      <link>https://herningfk.dk/tags/valg/</link>
+      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+      <guid>https://herningfk.dk/tags/valg/</guid>
+      <description></description>
+    </item>
     <item>
       <title>4-way</title>
-      <link>https://herningfk.github.io/tags/4-way/</link>
+      <link>https://herningfk.dk/tags/4-way/</link>
       <pubDate>Sun, 01 Oct 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.github.io/tags/4-way/</guid>
+      <guid>https://herningfk.dk/tags/4-way/</guid>
       <description></description>
     </item>
     <item>
       <title>fs</title>
-      <link>https://herningfk.github.io/tags/fs/</link>
+      <link>https://herningfk.dk/tags/fs/</link>
       <pubDate>Sun, 01 Oct 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.github.io/tags/fs/</guid>
+      <guid>https://herningfk.dk/tags/fs/</guid>
       <description></description>
     </item>
     <item>
       <title>konkurrence</title>
-      <link>https://herningfk.github.io/tags/konkurrence/</link>
+      <link>https://herningfk.dk/tags/konkurrence/</link>
       <pubDate>Sun, 01 Oct 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.github.io/tags/konkurrence/</guid>
+      <guid>https://herningfk.dk/tags/konkurrence/</guid>
       <description></description>
     </item>
     <item>
       <title>party</title>
-      <link>https://herningfk.github.io/tags/party/</link>
+      <link>https://herningfk.dk/tags/party/</link>
       <pubDate>Sun, 01 Oct 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.github.io/tags/party/</guid>
+      <guid>https://herningfk.dk/tags/party/</guid>
       <description></description>
     </item>
     <item>
       <title>scramble</title>
-      <link>https://herningfk.github.io/tags/scramble/</link>
+      <link>https://herningfk.dk/tags/scramble/</link>
       <pubDate>Sun, 01 Oct 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.github.io/tags/scramble/</guid>
+      <guid>https://herningfk.dk/tags/scramble/</guid>
       <description></description>
     </item>
     <item>
       <title>single a niveau</title>
-      <link>https://herningfk.github.io/tags/single-a-niveau/</link>
+      <link>https://herningfk.dk/tags/single-a-niveau/</link>
       <pubDate>Sun, 01 Oct 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.github.io/tags/single-a-niveau/</guid>
+      <guid>https://herningfk.dk/tags/single-a-niveau/</guid>
       <description></description>
     </item>
     <item>
       <title>angle</title>
-      <link>https://herningfk.github.io/tags/angle/</link>
+      <link>https://herningfk.dk/tags/angle/</link>
       <pubDate>Fri, 02 Jun 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.github.io/tags/angle/</guid>
+      <guid>https://herningfk.dk/tags/angle/</guid>
       <description></description>
     </item>
     <item>
       <title>camp</title>
-      <link>https://herningfk.github.io/tags/camp/</link>
+      <link>https://herningfk.dk/tags/camp/</link>
       <pubDate>Fri, 02 Jun 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.github.io/tags/camp/</guid>
+      <guid>https://herningfk.dk/tags/camp/</guid>
       <description></description>
     </item>
     <item>
       <title>skills</title>
-      <link>https://herningfk.github.io/tags/skills/</link>
+      <link>https://herningfk.dk/tags/skills/</link>
       <pubDate>Fri, 02 Jun 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.github.io/tags/skills/</guid>
+      <guid>https://herningfk.dk/tags/skills/</guid>
       <description></description>
     </item>
   </channel>

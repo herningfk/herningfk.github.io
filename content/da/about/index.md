@@ -12,7 +12,7 @@ _Herning Faldskærmsklub_ er en klub under Danmarks Faldskærmsunion som blev sk
 
 Foreningen modtager støtte fra Herning Idrætsråd til dække af husleje, og har en bestyrelse som består af formand, næstformand, kasserer. Bestyrelsen vælges til generalforsamingen, som afholdes årligt jf. foreningens vedtægter.
 
-{{< button text="Læs vedtægter" link="../pdf/HFK_Vedtaegter_2023.pdf" >}}
+{{< button text="Læs vedtægter" link="https://herningfk.dk/pdf/HFK_Vedtaegter_2023.pdf" >}}
 
 
 ### DFU 

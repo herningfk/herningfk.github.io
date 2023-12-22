@@ -8,7 +8,7 @@ menu:
 
 _Herning Faldskærmsklub_ er en klub under Danmarks Faldskærmsunion som blev skabt i 2016 for at skabe sammenhold blandt springere i det midtjyske. Vi bor til leje hos Dropzone Danmark, og springer fra deres Supervan 208B D-FSWW. 
 
-{{< figure src="https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666304126/hfksource/images/thumbsup_remw2l.png" title="M. Bay og T. Gilbert (2021)" >}}
+{{< figure src="https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666304126/hfksource/images/thumbsup_remw2l.png" title="Martin Bay og Thomas Gilbert (2021)" >}}
 
 Foreningen modtager støtte fra Herning Idrætsråd til dække af husleje, og har en bestyrelse som består af formand, næstformand, kasserer. Bestyrelsen vælges til generalforsamingen, som afholdes årligt jf. foreningens vedtægter.
 

@@ -3,7 +3,7 @@ date: 2023-10-01T17:00:00-00:00
 publishDate: 2023-10-01T17:00:00-00:00
 description: "Kom med til en FED årsafslutning"
 featured_image: "https://res.cloudinary.com/dzanurchx/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1698592380/bullseye_oupxrf.png"
-author: "T. Gilbert"
+author: "Thomas Gilbert"
 tags: ["konkurrence", "fs", "4-way", "party", "scramble", "single a niveau"]
 title: "HFK Klubkonkurrence 2023"
 ---

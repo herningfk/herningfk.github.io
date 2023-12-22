@@ -2,7 +2,7 @@
 date: 2023-01-09T10:58:08-04:00
 description: "Er det farligt at springe faldskærm ?"
 featured_image: "https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666304125/hfksource/images/snoning_klpjq9.png"
-author: "T. Gilbert"
+author: "Thomas Gilbert"
 title: "Snoninger og andre fejlfunktioner"
 ---
 At springe faldskærm er generelt **MEGET** sikkert, forudsat at det udføres under passende forhold og med korrekt træning samt vedligeholdelse af udstyret. Moderne faldskærmsudspring er blevet meget sikrere på grund af avanceret teknologi og strenge sikkerhedsstandarder.

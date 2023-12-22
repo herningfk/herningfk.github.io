@@ -4,7 +4,7 @@ description: "Formationsspring - for begyndere og de øvede"
 featured_image: "https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666304124/hfksource/images/5-way_co8sqc.jpg"
 tags: ["fs", "4-way"]
 title: "Formationsspring"
-author: "T. Gilbert"
+author: "Thomas Gilbert"
 disable_share: false
 ---
 Der er ikke noget sjovere end at springe ud af en flyvemaskine sammen med sine venner. Hos HFK har vi den perfekte flyver med en stor dør, som gør det muligt at lave formationsspring med mange springere.

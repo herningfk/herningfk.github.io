@@ -3,7 +3,7 @@ date: 2022-10-28T17:00:00-00:00
 publishDate: 2022-09-28T17:00:00-00:00
 description: "Kom med til en FED årsafslutning"
 featured_image: "https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666306258/hfksource/images/HFK_Klub_Compo2021_wddeik.jpg"
-author: "T. Gilbert"
+author: "Thomas Gilbert"
 tags: ["konkurrence", "fs", "4-way", "party", "scramble", "single a niveau"]
 title: "HFK Klubkonkurrence og Årsafslutning"
 ---

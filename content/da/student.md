@@ -25,22 +25,21 @@ Du kan enten nøjes med at bestille ét enkelt spring, eller benytte dig af vore
   - Teoriundervisning
   - Træning og sikkerheds øverlser på jorden
   - DIT FØRST SPRING, AFF level 1 med 2 instruktører
-- Bronze+ indeholder
+- Sølv indeholder
   - Teoriundervisning
   - Træning og sikkerheds øverlser på jorden
   - AFF level 1,2 og 3 med 2 instruktører ( 3 spring i alt )
-- Sølv
+- Guld
   - Teoriundervisning
   - Træning og sikkerheds øverlser på jorden
   - AFF level 1,2 og 3 med 2 instruktører PLUS AFF level 4,5,6,7,8 med 1 instruktør ( 8 spring i alt )
-- Guld
+- Licens
   - Teoriundervisning
   - Træning og sikkerheds øverlser på jorden
   - AFF level 1,2 og 3 med 2 instruktører ( 3 spring i alt )
   - AFF level 4,5,6,7,8 med 1 instruktør ( 5 spring i alt )
   - 7 coach spring for at lære avancerede teknikker
   - 10 solo spring, hvor du kan øve dig 
-  - Inkl. gebyrer og fit første års medlemsskab af USPA ( The United States Parachute Association )
 
 Når du har opnået din USPA-A licens, er det tid til at have det sjovt på himlen sammen med alle os andre. 🪂 🛫 😎
 

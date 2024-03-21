@@ -10,7 +10,6 @@ enableRobotsTXT = true
 
 publishDir = "./docs"
 
-
 [languages]
   [languages.da]
     title = "HFK"

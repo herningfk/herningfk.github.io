@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Angle on HFK</title>
-    <link>http://localhost:1313/tags/angle/</link>
+    <link>https://herningfk.dk/tags/angle/</link>
     <description>Recent content in Angle on HFK</description>
     <generator>Hugo</generator>
     <language>da</language>
     <lastBuildDate>Sat, 27 Apr 2024 00:56:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/angle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://herningfk.dk/tags/angle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bezerkerboogie REBIRTH!</title>
-      <link>http://localhost:1313/post/bezerker2024/</link>
+      <link>https://herningfk.dk/post/bezerker2024/</link>
       <pubDate>Sat, 27 Apr 2024 00:56:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/bezerker2024/</guid>
+      <guid>https://herningfk.dk/post/bezerker2024/</guid>
       <description>DZDK genopliver Bezerkerboogie! 🤘 HFK har besluttet at ALLE medlemmer skal deltage i Bezerkerboogie 2024! Det er årets fedeste event, med hele 4 dages skill camps, organizing og hygge! HFK betaler DIT tilmeldingsgebyr, så det er et tilbud du ikke kan sige nej til!&#xA;Skillcamps Verdens allerbedste faldskærmsspringere samler sig i Sunds, og DU har mulighed for at springe sammen med dem. Det er verdensklasse coaching, og der er noget til ALLE niveauer!</description>
     </item>
     <item>
       <title>Angle Camp 2023</title>
-      <link>http://localhost:1313/post/anglecamp2023/</link>
+      <link>https://herningfk.dk/post/anglecamp2023/</link>
       <pubDate>Fri, 02 Jun 2023 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/anglecamp2023/</guid>
+      <guid>https://herningfk.dk/post/anglecamp2023/</guid>
       <description>Herning Faldskærmsklub holder ANGLE KURSUS for begyndere og let øvede GRATIS at deltage for HFK medlemmer, betal KUN for dine egne spring.&#xA;( Ikke HFK medlemmer deltager for 300,- pr. dag og beløbet går ubeskåret til din coach )&#xA;Forvent at vi giver den gas med 5-10 spring om dagen. ( Så mange i kan holde til, og som vejret tillader ) Man binder sig for én hel dag, ad gangen.</description>
     </item>
   </channel>

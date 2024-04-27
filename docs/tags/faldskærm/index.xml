@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faldskærm on HFK</title>
-    <link>https://herningfk.dk/tags/faldsk%C3%A6rm/</link>
+    <link>http://localhost:1313/tags/faldsk%C3%A6rm/</link>
     <description>Recent content in Faldskærm on HFK</description>
     <generator>Hugo</generator>
     <language>da</language>
     <lastBuildDate>Thu, 21 Dec 2023 22:56:00 +0000</lastBuildDate>
-    <atom:link href="https://herningfk.dk/tags/faldsk%C3%A6rm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/faldsk%C3%A6rm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glædelig jul 2023</title>
-      <link>https://herningfk.dk/post/jul2023/</link>
+      <link>http://localhost:1313/post/jul2023/</link>
       <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/jul2023/</guid>
+      <guid>http://localhost:1313/post/jul2023/</guid>
       <description>Glædelig Jul 🎄 🎅 Hent din julegave her! Kære medlem,&#xA;HFK ønsker dig en rigtligt glædelig jul. Tusinde tak for din støtte gennem 2023, og de gode &amp;lsquo;vibes&amp;rsquo; DU spreder i klubben!&#xA;HUSK der er generalforsamling den 29. febrauar 2024!&#xA;Se indbydelse Vinterens aktiviteter Husk at mange af de andre klubber holder stævne selvom der er piv-koldt her i vintermånederne. Det gælder om at holde sig til, og følge de andre klubbers facebook sider.</description>
     </item>
   </channel>

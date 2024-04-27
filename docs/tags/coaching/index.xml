@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coaching on HFK</title>
-    <link>https://herningfk.dk/tags/coaching/</link>
+    <link>http://localhost:1313/tags/coaching/</link>
     <description>Recent content in Coaching on HFK</description>
     <generator>Hugo</generator>
     <language>da</language>
     <lastBuildDate>Sun, 28 Apr 2024 00:56:00 +0000</lastBuildDate>
-    <atom:link href="https://herningfk.dk/tags/coaching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/coaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skærmflyvningskursus til ALLE</title>
-      <link>https://herningfk.dk/post/cp-noswoop-2024/</link>
+      <link>http://localhost:1313/post/cp-noswoop-2024/</link>
       <pubDate>Sat, 27 Apr 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/cp-noswoop-2024/</guid>
+      <guid>http://localhost:1313/post/cp-noswoop-2024/</guid>
       <description>Alle har ret til et fedt skærmflyvningskursus I 2024 besluttede bestyrelsen at støtte op omkring medlemmernes udvikling ved at forærre ALLE et skærmslyvningskursus. Anders Nedergaard-Hansen står klar alle disse dage&#xA;maj juni juli august Der er ingen undskyldning - DU SKAL MED!&#xA;Kurset til folk med mellem 10 og 500 spring Skydiver &amp;lsquo;kend din skærm&amp;rsquo; 🪂 Hvad er en &amp;lsquo;flight-cycle&amp;rsquo; 🚳 Hvordan kommer jeg hjem fra et dårligt spot ? 🚌 Perfekt landing hver gang ?</description>
     </item>
     <item>
       <title>Introduktion til Swooping</title>
-      <link>https://herningfk.dk/post/cp-swoop-2024/</link>
+      <link>http://localhost:1313/post/cp-swoop-2024/</link>
       <pubDate>Sat, 13 Apr 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/cp-swoop-2024/</guid>
+      <guid>http://localhost:1313/post/cp-swoop-2024/</guid>
       <description>Alle har ret til et fedt skærmflyvningskursus I 2024 besluttede bestyrelsen at støtte op omkring medlemmernes udvikling ved at forærre ALLE et skærmslyvningskursus. Vi har aftalt to forskellige moduler, med Anders Nedergaard-Hansen og Timmi Thomsen - og det afholdes den 13. + 14. April 2024.&#xA;Introduktion til swooping Sikkerher - hvorfor er swooping farligt ? ☠️ Stall håndtering og hvor er min skærms grænser ? Flyveplansændringer med hensyn til både ansvar og præcision 🎯 Sikker progression af hurtige landinger 🏎️ Downsizing og faldskærmstyper 📏 Læs Mere og Tilmelding ALLE medlemmer er inviteret - og alle medlemmer deltager GRATIS.</description>
     </item>
   </channel>

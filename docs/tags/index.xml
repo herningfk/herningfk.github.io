@@ -2,234 +2,234 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HFK</title>
-    <link>https://herningfk.dk/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on HFK</description>
     <generator>Hugo</generator>
     <language>da</language>
     <lastBuildDate>Sun, 28 Apr 2024 00:56:00 +0000</lastBuildDate>
-    <atom:link href="https://herningfk.dk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4-Way</title>
-      <link>https://herningfk.dk/tags/4-way/</link>
+      <link>http://localhost:1313/tags/4-way/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/4-way/</guid>
+      <guid>http://localhost:1313/tags/4-way/</guid>
       <description></description>
     </item>
     <item>
       <title>Angle</title>
-      <link>https://herningfk.dk/tags/angle/</link>
+      <link>http://localhost:1313/tags/angle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/angle/</guid>
+      <guid>http://localhost:1313/tags/angle/</guid>
       <description></description>
     </item>
     <item>
       <title>Headdown</title>
-      <link>https://herningfk.dk/tags/headdown/</link>
+      <link>http://localhost:1313/tags/headdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/headdown/</guid>
+      <guid>http://localhost:1313/tags/headdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Headup</title>
-      <link>https://herningfk.dk/tags/headup/</link>
+      <link>http://localhost:1313/tags/headup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/headup/</guid>
+      <guid>http://localhost:1313/tags/headup/</guid>
       <description></description>
     </item>
     <item>
       <title>Organizer</title>
-      <link>https://herningfk.dk/tags/organizer/</link>
+      <link>http://localhost:1313/tags/organizer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/organizer/</guid>
+      <guid>http://localhost:1313/tags/organizer/</guid>
       <description></description>
     </item>
     <item>
       <title>Party</title>
-      <link>https://herningfk.dk/tags/party/</link>
+      <link>http://localhost:1313/tags/party/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/party/</guid>
+      <guid>http://localhost:1313/tags/party/</guid>
       <description></description>
     </item>
     <item>
       <title>Coaching</title>
-      <link>https://herningfk.dk/tags/coaching/</link>
+      <link>http://localhost:1313/tags/coaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/coaching/</guid>
+      <guid>http://localhost:1313/tags/coaching/</guid>
       <description></description>
     </item>
     <item>
       <title>Cp</title>
-      <link>https://herningfk.dk/tags/cp/</link>
+      <link>http://localhost:1313/tags/cp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/cp/</guid>
+      <guid>http://localhost:1313/tags/cp/</guid>
       <description></description>
     </item>
     <item>
       <title>Gratis</title>
-      <link>https://herningfk.dk/tags/gratis/</link>
+      <link>http://localhost:1313/tags/gratis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/gratis/</guid>
+      <guid>http://localhost:1313/tags/gratis/</guid>
       <description></description>
     </item>
     <item>
       <title>Swoop</title>
-      <link>https://herningfk.dk/tags/swoop/</link>
+      <link>http://localhost:1313/tags/swoop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/swoop/</guid>
+      <guid>http://localhost:1313/tags/swoop/</guid>
       <description></description>
     </item>
     <item>
       <title>Swooping</title>
-      <link>https://herningfk.dk/tags/swooping/</link>
+      <link>http://localhost:1313/tags/swooping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/swooping/</guid>
+      <guid>http://localhost:1313/tags/swooping/</guid>
       <description></description>
     </item>
     <item>
       <title>2024</title>
-      <link>https://herningfk.dk/tags/2024/</link>
+      <link>http://localhost:1313/tags/2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/2024/</guid>
+      <guid>http://localhost:1313/tags/2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Budget</title>
-      <link>https://herningfk.dk/tags/budget/</link>
+      <link>http://localhost:1313/tags/budget/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/budget/</guid>
+      <guid>http://localhost:1313/tags/budget/</guid>
       <description></description>
     </item>
     <item>
       <title>Faldskærmsklub</title>
-      <link>https://herningfk.dk/tags/faldsk%C3%A6rmsklub/</link>
+      <link>http://localhost:1313/tags/faldsk%C3%A6rmsklub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/faldsk%C3%A6rmsklub/</guid>
+      <guid>http://localhost:1313/tags/faldsk%C3%A6rmsklub/</guid>
       <description></description>
     </item>
     <item>
       <title>Formand</title>
-      <link>https://herningfk.dk/tags/formand/</link>
+      <link>http://localhost:1313/tags/formand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/formand/</guid>
+      <guid>http://localhost:1313/tags/formand/</guid>
       <description></description>
     </item>
     <item>
       <title>Generalforsamling</title>
-      <link>https://herningfk.dk/tags/generalforsamling/</link>
+      <link>http://localhost:1313/tags/generalforsamling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/generalforsamling/</guid>
+      <guid>http://localhost:1313/tags/generalforsamling/</guid>
       <description></description>
     </item>
     <item>
       <title>Herning</title>
-      <link>https://herningfk.dk/tags/herning/</link>
+      <link>http://localhost:1313/tags/herning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/herning/</guid>
+      <guid>http://localhost:1313/tags/herning/</guid>
       <description></description>
     </item>
     <item>
       <title>Hfk</title>
-      <link>https://herningfk.dk/tags/hfk/</link>
+      <link>http://localhost:1313/tags/hfk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/hfk/</guid>
+      <guid>http://localhost:1313/tags/hfk/</guid>
       <description></description>
     </item>
     <item>
       <title>Valg</title>
-      <link>https://herningfk.dk/tags/valg/</link>
+      <link>http://localhost:1313/tags/valg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/valg/</guid>
+      <guid>http://localhost:1313/tags/valg/</guid>
       <description></description>
     </item>
     <item>
       <title>Faldskærm</title>
-      <link>https://herningfk.dk/tags/faldsk%C3%A6rm/</link>
+      <link>http://localhost:1313/tags/faldsk%C3%A6rm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/faldsk%C3%A6rm/</guid>
+      <guid>http://localhost:1313/tags/faldsk%C3%A6rm/</guid>
       <description></description>
     </item>
     <item>
       <title>Gave</title>
-      <link>https://herningfk.dk/tags/gave/</link>
+      <link>http://localhost:1313/tags/gave/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/gave/</guid>
+      <guid>http://localhost:1313/tags/gave/</guid>
       <description></description>
     </item>
     <item>
       <title>Gaveregn</title>
-      <link>https://herningfk.dk/tags/gaveregn/</link>
+      <link>http://localhost:1313/tags/gaveregn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/gaveregn/</guid>
+      <guid>http://localhost:1313/tags/gaveregn/</guid>
       <description></description>
     </item>
     <item>
       <title>Julehilsen</title>
-      <link>https://herningfk.dk/tags/julehilsen/</link>
+      <link>http://localhost:1313/tags/julehilsen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/julehilsen/</guid>
+      <guid>http://localhost:1313/tags/julehilsen/</guid>
       <description></description>
     </item>
     <item>
       <title>Nissen</title>
-      <link>https://herningfk.dk/tags/nissen/</link>
+      <link>http://localhost:1313/tags/nissen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/nissen/</guid>
+      <guid>http://localhost:1313/tags/nissen/</guid>
       <description></description>
     </item>
     <item>
       <title>Undertræet</title>
-      <link>https://herningfk.dk/tags/undertr%C3%A6et/</link>
+      <link>http://localhost:1313/tags/undertr%C3%A6et/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/undertr%C3%A6et/</guid>
+      <guid>http://localhost:1313/tags/undertr%C3%A6et/</guid>
       <description></description>
     </item>
     <item>
       <title>Fs</title>
-      <link>https://herningfk.dk/tags/fs/</link>
+      <link>http://localhost:1313/tags/fs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/fs/</guid>
+      <guid>http://localhost:1313/tags/fs/</guid>
       <description></description>
     </item>
     <item>
       <title>Konkurrence</title>
-      <link>https://herningfk.dk/tags/konkurrence/</link>
+      <link>http://localhost:1313/tags/konkurrence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/konkurrence/</guid>
+      <guid>http://localhost:1313/tags/konkurrence/</guid>
       <description></description>
     </item>
     <item>
       <title>Scramble</title>
-      <link>https://herningfk.dk/tags/scramble/</link>
+      <link>http://localhost:1313/tags/scramble/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/scramble/</guid>
+      <guid>http://localhost:1313/tags/scramble/</guid>
       <description></description>
     </item>
     <item>
       <title>Single a Niveau</title>
-      <link>https://herningfk.dk/tags/single-a-niveau/</link>
+      <link>http://localhost:1313/tags/single-a-niveau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/single-a-niveau/</guid>
+      <guid>http://localhost:1313/tags/single-a-niveau/</guid>
       <description></description>
     </item>
     <item>
       <title>Camp</title>
-      <link>https://herningfk.dk/tags/camp/</link>
+      <link>http://localhost:1313/tags/camp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/camp/</guid>
+      <guid>http://localhost:1313/tags/camp/</guid>
       <description></description>
     </item>
     <item>
       <title>Skills</title>
-      <link>https://herningfk.dk/tags/skills/</link>
+      <link>http://localhost:1313/tags/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/skills/</guid>
+      <guid>http://localhost:1313/tags/skills/</guid>
       <description></description>
     </item>
     <item>
       <title>2023</title>
-      <link>https://herningfk.dk/tags/2023/</link>
+      <link>http://localhost:1313/tags/2023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/2023/</guid>
+      <guid>http://localhost:1313/tags/2023/</guid>
       <description></description>
     </item>
   </channel>

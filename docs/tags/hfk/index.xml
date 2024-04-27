@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hfk on HFK</title>
-    <link>https://herningfk.dk/tags/hfk/</link>
+    <link>http://localhost:1313/tags/hfk/</link>
     <description>Recent content in Hfk on HFK</description>
     <generator>Hugo</generator>
     <language>da</language>
     <lastBuildDate>Thu, 29 Feb 2024 18:00:00 +0000</lastBuildDate>
-    <atom:link href="https://herningfk.dk/tags/hfk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hfk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Referat fra HFK Generalforsamlinge 2024</title>
-      <link>https://herningfk.dk/post/gf2024-ref/</link>
+      <link>http://localhost:1313/post/gf2024-ref/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/gf2024-ref/</guid>
+      <guid>http://localhost:1313/post/gf2024-ref/</guid>
       <description>Referat fra generalforsamlingen 2024 HFK afholdte generalforsamling 29. februar 2024 @ 18:00.&#xA;Læs referat Tak alle de fremmødte for en god generalforsamling&#xA;på vegne af Herning Faldskærmsklub&#xA;Thomas Gilbert ( formand )</description>
     </item>
     <item>
       <title>HFK Generalforsamlinge 2024</title>
-      <link>https://herningfk.dk/post/gf2024/</link>
+      <link>http://localhost:1313/post/gf2024/</link>
       <pubDate>Wed, 24 Jan 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/gf2024/</guid>
+      <guid>http://localhost:1313/post/gf2024/</guid>
       <description>Indbydelse til Generalforsamling 2024 HFK afholder generalforsamling torsdag den 29. februar @ 18:00, det er incl. lækker mad og hygge i vores lokaler hos hos Dropzone Denmark.&#xA;ALLE medlemmer er inviteret - så kom med og hør hvad vi har på tapetet til 2024.&#xA;DAGSORDEN ER Valg af dirigent og referent Bestyrelsens beretning for det forløbne år Forelæggelse af årsrapport (inkl. revideret regnskab) for det forløbne år til godkendelse Forelæggelse af bestyrelsens budgetforslag for det kommende år til godkendelse Fastsættelse af kontingent Behandling af indkomne forslag Ansøgning modtaget vedr.</description>
     </item>
     <item>
       <title>Glædelig jul 2023</title>
-      <link>https://herningfk.dk/post/jul2023/</link>
+      <link>http://localhost:1313/post/jul2023/</link>
       <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/jul2023/</guid>
+      <guid>http://localhost:1313/post/jul2023/</guid>
       <description>Glædelig Jul 🎄 🎅 Hent din julegave her! Kære medlem,&#xA;HFK ønsker dig en rigtligt glædelig jul. Tusinde tak for din støtte gennem 2023, og de gode &amp;lsquo;vibes&amp;rsquo; DU spreder i klubben!&#xA;HUSK der er generalforsamling den 29. febrauar 2024!&#xA;Se indbydelse Vinterens aktiviteter Husk at mange af de andre klubber holder stævne selvom der er piv-koldt her i vintermånederne. Det gælder om at holde sig til, og følge de andre klubbers facebook sider.</description>
     </item>
     <item>
       <title>Referat fra HFK Generalforsamlinge 2023</title>
-      <link>https://herningfk.dk/post/gf2023-ref/</link>
+      <link>http://localhost:1313/post/gf2023-ref/</link>
       <pubDate>Wed, 01 Mar 2023 15:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/gf2023-ref/</guid>
+      <guid>http://localhost:1313/post/gf2023-ref/</guid>
       <description>Referat fra generalforsamlingen 2023 HFK afholdte generalforsamling 3. februar 2023 @ 18:00.&#xA;Referat Læs referat Tak alle de fremmødte for en god generalforsamling&#xA;på vegne af Herning Faldskærmsklub&#xA;Thomas Gilbert ( formand )</description>
     </item>
   </channel>

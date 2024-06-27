@@ -49,6 +49,6 @@ Her får du det bedste fra begge verdener. Det håndholdte kamera fanger dit ans
 
 ## Spørgsmål
 
-Vores tandemspring bliver lavet i samarbejde med Dropzone Denmark, og har du spørgsmål er du velkommen til at kontakte Dropzone Denmark direkte eller udfylde nedenstående formular.
+Har du spørgsmål til hvad en tandem er, hvor sikkert det er, hvordan det føles eller noget helt andet så spørg endelig! Udfyld blot nedenstående formular, og vi vender tilbage.
 
 {{< hfkform >}}

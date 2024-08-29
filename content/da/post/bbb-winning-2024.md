@@ -5,7 +5,7 @@ lastmod: 2024-08-02T00:00:00-00:00
 featured_image: "https://res.cloudinary.com/dzanurchx/image/upload/v1722962880/hfksource/bbb/453615875_10161611471714322_994635205201869855_n_kxpsst.jpg"
 author: "Thomas Gilbert"
 tags: ["dm", "4-way", "bbb", "b-b-b", "fdk", "maribo", "tunnel"]
-title: "B-B-B vinder bronze ved DM i fritflad 2024! 🥉"
+title: "B-B-B vinder bronze ved DM i fritfald 2024! 🥉"
 ---
 HFK's team *B-B-B* fik 🥉
 

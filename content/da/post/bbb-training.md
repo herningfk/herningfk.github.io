@@ -5,7 +5,7 @@ lastmod: 2024-07-24T00:00:00-00:00
 featured_image: "https://res.cloudinary.com/dzanurchx/image/upload/f_auto,q_auto/hfksource/bbb/team-b-b-b-maribo_ydmsuf.png"
 author: "Thomas Gilbert"
 tags: ["dm", "4-way", "bbb", "b-b-b", "fdk", "maribo"]
-title: "Team B-B-B stiller op til DM i fritflad 2024!"
+title: "Team B-B-B stiller op til DM i fritfald 2024!"
 ---
 Herning faldskærmsklub er stolte af at kunne præsentere team *B-B-B*
 

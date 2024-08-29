@@ -12,7 +12,7 @@ Et tandemspring er noget de fleste mennesker drømmer om. Det kan være noget de
 
 {{< figure src="https://res.cloudinary.com/dzanurchx/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1697810239/hfksource/images/tandemguest_fjbdkk.jpg" title="Tandeminstruktør med passager (2023)" >}}
 
-Hos os er det muligt at få 4 vidt forskellige tandem oplevelser. Det er muligt at springe enten **uden** fritfaldsoplevelse fra 2 km, med ca. 50 sekunders fritfladsoplevelse fra 4,5km eller **HALO** med ILT fra enten 6km eller 7,6km.
+Hos os er det muligt at få 4 vidt forskellige tandem oplevelser. Det er muligt at springe enten **uden** fritfaldsoplevelse fra 2 km, med ca. 50 sekunders fritfaldsoplevelse fra 4,5km eller **HALO** med ILT fra enten 6km eller 7,6km.
 
 ### Spring uden ilt
 

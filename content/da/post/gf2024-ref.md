@@ -8,7 +8,7 @@ title: "Referat fra HFK Generalforsamlinge 2024"
 ---
 #### Referat fra generalforsamlingen 2024
 HFK afholdte generalforsamling 29. februar 2024 @ 18:00.
-
+<!--more-->
 {{< figure src="https://res.cloudinary.com/dzanurchx/video/upload/c_scale,w_800/e_loop/v1711057521/hfksource/gf2024/IMG_1583_uom7ox.gif" >}}
 
 {{< button text="Læs referat" link="https://herningfk.dk/pdf/HFK_Generalforsamling_2024.pdf" >}}

@@ -17,7 +17,7 @@ Holdet består af nogle fantastiske springere, og blev dannet over vinteren 2023
 * Carola de Kieviet
 
 Det er fedt at se et så dygtigt hold, hvor springerne har mellem 50 og 300 spring.
-
+<!--more-->
 ### For-fortræning i Maribo
 Holdet er lige kommet hjem fra en fed weekend hos [FDK i Maribo](https://www.faldskaermsklubben.dk), og den var fuld af godt vejr og masser af spring. Det var faktisk den første samlede øveweekend, og hvor er de bare go'e.
 

@@ -10,7 +10,7 @@ title: "Introduktion til Swooping"
 
 #### Alle har ret til et fedt skærmflyvningskursus
 I 2024 besluttede bestyrelsen at støtte op omkring medlemmernes udvikling ved at forærre ALLE et skærmslyvningskursus. Vi har aftalt to forskellige moduler, med Anders Nedergaard-Hansen og Timmi Thomsen - og det afholdes den 13. + 14. April 2024.
-
+<!--more-->
 {{< figure src="https://res.cloudinary.com/dzanurchx/video/upload/c_scale,w_800/e_loop/v1711057521/hfksource/video/qfz6apcf4gkd1bneicbl.gif" >}}
 
 ##### Introduktion til swooping

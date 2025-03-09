@@ -1,5 +1,5 @@
 module github.com/herningfk/herningfk.github.io
 
-go 1.22.5
+go 1.24.1
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20240418152324-0d068637ccd8 // indirect
+require github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.0 // indirect

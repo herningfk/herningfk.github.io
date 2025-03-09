@@ -14,7 +14,7 @@ HFK's team *B-B-B* fik 🥉
 * Cecilie Moos
 * Kata Whitehead
 * Carola de Kieviet
-
+<!--more-->
 ### En video siger mere end 1000 ord
 {{< youtube id="JiOAoFr38cw" title="DM 2024 sammendrag" autoplay="true" >}}
 {{< button text="TRYK FOR AT SE SCORE" link="https://www.intimescoring.com/Results/EventResults?dbid=8&mid=72&smid=0&mdcid=1200&dseid=0" >}}

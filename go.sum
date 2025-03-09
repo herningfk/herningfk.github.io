@@ -1,6 +1,2 @@
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230919154732-c086834f0ebf h1:BY+sUxbApZGGlUbDKGBUAENu/9FBGdv4SdqrkzSSH2Y=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230919154732-c086834f0ebf/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20240418152324-0d068637ccd8 h1:I7eA/HTytTi5p5MSwvC5TdgakflFNeLnxfTXTqzc804=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20240418152324-0d068637ccd8/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20240418152630-f34c219436ab h1:6gMOjMjabgkj4kfA2wZzYnOxvEazXYBqfirpFcei9Gs=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20240418152630-f34c219436ab/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
+github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.0 h1:AF1mLNANYQYC9QaFnXh9iZagUj32ImnZIxREP8XeAS0=
+github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.0/go.mod h1:+a6uqEsCq0+rqHWY5W5QA3P9DNnxcbyCw+CVEB+Uveg=

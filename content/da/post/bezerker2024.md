@@ -11,7 +11,7 @@ title: "Bezerkerboogie REBIRTH!"
 
 ### DZDK genopliver Bezerkerboogie! 🤘
 *HFK* har besluttet at ALLE medlemmer skal deltage i Bezerkerboogie 2024! Det er årets fedeste event, med hele 4 dages skill camps, organizing og hygge! HFK betaler DIT tilmeldingsgebyr, så det er et tilbud du ikke kan sige nej til!
-
+<!--more-->
 {{< youtube id="-lbNjTN8fYg" title="Savner du ikke Bezerkerboogie 2019? " autoplay="true" >}}
 
 ### Skillcamps

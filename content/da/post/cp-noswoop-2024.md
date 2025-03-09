@@ -17,7 +17,7 @@ I 2024 besluttede bestyrelsen at støtte op omkring medlemmernes udvikling ved a
 - 31. august
 
 Der er ingen undskyldning - DU SKAL MED!
-
+<!--more-->
 {{< figure src="https://res.cloudinary.com/dzanurchx/image/upload/f_auto,q_auto/v1/hfksource/images/myhdydf6mciksruwkkls" >}}
 
 ##### Kurset til folk med mellem 10 og 500 spring

@@ -26,7 +26,7 @@ Desuden er seniorpakkercertifikat et krav for
 * DFU 1'er instruktør
 
 #### TILMELDING:
-Seniorpakkerkursuset er åbent for alle. [(klik her for at tilmelde)](mailto:thomas@itadvice.dk?subject=[HFK]%20GF2025%20Jeg%20spiser%20sgu%20med!&body=Jeg%20vil%20gerne%20spise%20med%20den%2022.%20%0AHilsen%20%20XXXX%20%20<--%20Skriv%20evt.%20dit%20navn%20her.%20😀) eller find eventet på facebook.
+Seniorpakkerkursuset er åbent for alle. [(klik her for at tilmelde)](mailto:thomas@itadvice.dk?subject=[HFK]%20Seniorpakkerkursus&body=Jeg%20vil%20gerne%20tilmeldes%20seniorpakkerkursus%20.%20%0AHilsen%20%20XXXX%20%20<--%20Skriv%20evt.%20dit%20navn%20her.%20😀) eller find eventet på facebook.
 
 Desuden kan du læse mere om seniorpakker uddannelsen i FB'eren.
 {{< button text="Link til FB'eren" link="https://dfu.dk/sites/default/files/faldskaerms_bestemmelser_2025_0.pdf" >}}

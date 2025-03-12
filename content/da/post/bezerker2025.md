@@ -31,7 +31,7 @@ Verdens allerbedste faldskærmsspringere samler sig i Sunds, og **DU** har mulig
 #### Tilmelding
 For at blive tilmeldt **GRATIS** som HFK medlem, skal du bruge nedenstående link, sammen med den hemmelige kode du har modtaget pr. email.
 
-{{< button text="Tilmeld Bersærkerboogie 2025" link="https://bookings.burblesoft.eu/index/178/1752" >}}
+{{< button text="Tilmeld Bersærkerboogie 2025" link="https://bookings.burblesoft.eu/index/178/1892" >}}
 
 #### Husk:
 * Skriv til DZDK hvis du vil overnatte - der kan være travlt i bunkhouse.

@@ -11,7 +11,7 @@ title: "2025 bliver dit udviklingsår!"
 
 ### HFK giver igen i år massivt støtte til din udvikling 🪂
 *HFK* har bestluttet at vi endnu en gang i 2025 skal støtte op om udviklingen for såvel nye som erfarne springere. Der skal være noget for alle, og her er hvad vi indtil videre har planlagt for 2025.
-
+<!--more-->
 ### 100% rabat til én dag med momentum
 {{< figure src="https://res.cloudinary.com/dzanurchx/image/upload/f_auto,q_auto/v1/hfksource/aktiviteter2025/lcnba7fr1jq2vbaymon0" >}}
 

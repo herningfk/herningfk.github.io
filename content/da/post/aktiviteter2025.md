@@ -47,6 +47,7 @@ Indtil videre er er planlagt tur følgende datoer:
 * Onsdag den 27. august
 * Onsdag den 24. september
 * Onsdag den 22. oktober
+
 Flere datoer kan tilføjes efter forespørgsel.
 
 Du skal tilmelde dig eventet senest én uge inden, ved at følge linget fra eventet.
@@ -55,3 +56,7 @@ Du skal tilmelde dig eventet senest én uge inden, ved at følge linget fra even
 
 ### 50% på 1 tandemspring til alle medlemmer
 Forkæl en ven eller et familiemedlem med et tandemspring til HALV PRIS. Som **HFK** medlem har du mulighed for at give en ven, kollega eller et familiemedlem deres livs oplevelse. *DU* ved selv hvor fedt det er at springe faldskærm, vær med til at sprede det glade budskab 🥳 
+
+### Mentorprogrammet fortsætter
+Siden **HFK** lancerede mentor ordningen sidste år, har der været fuld gang i den. Målet var at sikre fastholdelse af nyere springere, således de ikke 'sad fast' uden nogen at lege med 🥰 Det har været en kæmpe success, og vi kører videre med ordningen.
+{{< button text="Læs mere om ordningen her" link="https://herningfk.dk/post/mentorship/" >}}

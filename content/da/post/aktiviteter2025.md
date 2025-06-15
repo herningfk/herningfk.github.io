@@ -37,7 +37,7 @@ Hvis du allerede har købt noget tunnel tid hos Leap i Malmø, så har **HFK** h
 * Peters Svalø
 * Malou Langer Kristensen
 
-Så om du lige er startet i sporten eller skal til at lære head-down, så har vi en coach på dit niveau. Indtil den 31/8 er der i øvrigt også tilbud hos Leap til 4500SEK for 1 time i tunnel.
+Så om du lige er startet i sporten eller skal til at lære head-down, så har vi en coach på dit niveau. Indtil den 31/8 er der i øvrigt også tilbud hos Leap til cirka 3.000 DKK for 1 time i tunnel.
 
 {{< figure src="https://res.cloudinary.com/dzanurchx/image/upload/f_auto,q_auto/v1/hfksource/aktiviteter2025/wikxriejxfoz0w4mi9f7" >}}
 
@@ -50,7 +50,7 @@ Indtil videre er er planlagt tur følgende datoer:
 
 Flere datoer kan tilføjes efter forespørgsel.
 
-Du skal tilmelde dig eventet senest én uge inden, ved at følge linget fra eventet.
+Du skal tilmelde dig eventet senest én uge inden, ved at følge linket fra eventet.
 
 {{< button text="Find tunnel campen i kalenderen" link="https://www.dropzonedenmark.dk/om-os/faldskaermsevents" >}}
 

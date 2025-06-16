@@ -31,7 +31,7 @@ HFK giver **igen** støtte til skærmflyvningskursus. Der er annonceret flere sk
 {{< button text="Find dit kursus i kalenderen" link="https://www.dropzonedenmark.dk/om-os/faldskaermsevents" >}}
 
 ### Gratis tunnel coaching til alle medlemmer
-Hvis du allerede har købt noget tunnel tid hos Leap i Malmø, så har **HFK** har lavet en aftale, hvor *du* får 1 times GRATIS coaching. Vi har aftaler med nogle fantastiske coaches:
+Hvis du allerede har købt noget tunnel tid hos Leap i Malmø, så har **HFK** lavet en aftale, hvor *du* får 1 times GRATIS coaching. Vi har aftaler med nogle fantastiske coaches:
 
 * Kevin Arcamona
 * Peters Svalø
@@ -55,7 +55,7 @@ Du skal tilmelde dig eventet senest én uge inden, ved at følge linket fra even
 {{< button text="Find tunnel campen i kalenderen" link="https://www.dropzonedenmark.dk/om-os/faldskaermsevents" >}}
 
 ### 50% på 1 tandemspring til alle medlemmer
-Forkæl en ven eller et familiemedlem med et tandemspring til HALV PRIS. Som **HFK** medlem har du mulighed for at give en ven, kollega eller et familiemedlem deres livs oplevelse. *DU* ved selv hvor fedt det er at springe faldskærm, vær med til at sprede det glade budskab 🥳 
+Forkæl en ven eller et familiemedlem med et tandemspring til HALV PRIS. Som **HFK** medlem har du mulighed for at give en ven, kollega eller et familiemedlem deres livs oplevelse. *DU* ved selv, hvor fedt det er at springe faldskærm, vær med til at sprede det glade budskab 🥳 
 
 ### Mentorprogrammet fortsætter
 Siden **HFK** lancerede mentor ordningen sidste år, har der været fuld gang i den. Målet var at sikre fastholdelse af nyere springere, således de ikke 'sad fast' uden nogen at lege med 🥰 Det har været en kæmpe success, og vi kører videre med ordningen.

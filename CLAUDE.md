@@ -46,6 +46,8 @@ The custom domain (`herningfk.dk`) is set via `docs/CNAME`.
 - The archetype (`archetypes/default.md`) uses TOML front matter, but existing content uses YAML — use YAML for consistency with existing posts
 - External bookings link to Burble (`bookings.burblesoft.eu`)
 
-## Commit Convention
+## Commit and PR Conventions
 
-Conventional commits: `feat:`, `fix:`, `chore:`
+- Conventional commits: `feat:`, `fix:`, `chore:`
+- PR titles must also follow semantic commit format (e.g. `feat: add new page`)
+- NEVER include `Co-Authored-By` or any other mention of Claude/AI in commits

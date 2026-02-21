@@ -1,6 +1,5 @@
 ---
 date: 2023-06-02T17:00:00-00:00
-date: 2023-06-02T17:00:00-00:00
 description: "For begyndere og let øvede"
 featured_image: "https://res.cloudinary.com/dzanurchx/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1698593834/hfksource/images/Screenshot_2023-09-08_at_10.48.09_fcqn04.png"
 author: "Thomas Gilbert"

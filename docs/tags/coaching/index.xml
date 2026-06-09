@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Coaching on HFK</title>
-    <link>https://herningfk.dk/tags/coaching/</link>
-    <description>Recent content in Coaching on HFK</description>
-    <generator>Hugo</generator>
-    <language>da-DK</language>
-    <lastBuildDate>Thu, 27 Jun 2024 00:56:00 +0000</lastBuildDate>
-    <atom:link href="https://herningfk.dk/tags/coaching/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>HFK Annoncerer Mentorordning</title>
-      <link>https://herningfk.dk/post/mentorship/</link>
-      <pubDate>Thu, 27 Jun 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/mentorship/</guid>
-      <description>&lt;h4 id=&#34;hfk-annoncerer-mentorordning&#34;&gt;HFK Annoncerer Mentorordning&lt;/h4&gt;&#xA;&lt;p&gt;Herning Faldskærmsklub er begejstret for at introducere vores splinternye &lt;strong&gt;mentorprogram&lt;/strong&gt;. Vi har set at mange ikke helt ved hvad det næste skridt er efter A-licensen, måske er der ikke lige nogen du kan springe med, eller måske er det bare alt for længe siden du har sprunget faldskærm ?&lt;/p&gt;&#xA;&lt;p&gt;Hvorfor ikke gøre brug af vores mentorer ?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Skærmflyvningskursus til ALLE</title>
-      <link>https://herningfk.dk/post/cp-noswoop-2024/</link>
-      <pubDate>Sat, 27 Apr 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/cp-noswoop-2024/</guid>
-      <description>&lt;h4 id=&#34;alle-har-ret-til-et-fedt-skærmflyvningskursus&#34;&gt;Alle har ret til et fedt skærmflyvningskursus&lt;/h4&gt;&#xA;&lt;p&gt;I 2024 besluttede bestyrelsen at støtte op omkring medlemmernes udvikling ved at forærre ALLE et skærmslyvningskursus. Anders Nedergaard-Hansen står klar alle disse dage&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;4&#34;&gt;&#xA;&lt;li&gt;maj&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;juni&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;13&#34;&gt;&#xA;&lt;li&gt;juli&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;31&#34;&gt;&#xA;&lt;li&gt;august&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Der er ingen undskyldning - DU SKAL MED!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Introduktion til Swooping</title>
-      <link>https://herningfk.dk/post/cp-swoop-2024/</link>
-      <pubDate>Sat, 13 Apr 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/cp-swoop-2024/</guid>
-      <description>&lt;h4 id=&#34;alle-har-ret-til-et-fedt-skærmflyvningskursus&#34;&gt;Alle har ret til et fedt skærmflyvningskursus&lt;/h4&gt;&#xA;&lt;p&gt;I 2024 besluttede bestyrelsen at støtte op omkring medlemmernes udvikling ved at forærre ALLE et skærmslyvningskursus. Vi har aftalt to forskellige moduler, med Anders Nedergaard-Hansen og Timmi Thomsen - og det afholdes den 13. + 14. April 2024.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Coaching on HFK</title>
+		<link>https://herningfk.dk/tags/coaching/</link>
+		<description>Recent content in Coaching on HFK</description>
+		<generator>Hugo</generator>
+		<language>da-DK</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 27 Jun 2024 00:56:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://herningfk.dk/tags/coaching/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>HFK Annoncerer Mentorordning</title>
+				<link>https://herningfk.dk/post/mentorship/</link>
+				<pubDate>Thu, 27 Jun 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/post/mentorship/</guid>
+				<description>&lt;h4 id=&#34;hfk-annoncerer-mentorordning&#34;&gt;HFK Annoncerer Mentorordning&lt;/h4&gt;&#xA;&lt;p&gt;Herning Faldskærmsklub er begejstret for at introducere vores splinternye &lt;strong&gt;mentorprogram&lt;/strong&gt;. Vi har set at mange ikke helt ved hvad det næste skridt er efter A-licensen, måske er der ikke lige nogen du kan springe med, eller måske er det bare alt for længe siden du har sprunget faldskærm ?&lt;/p&gt;&#xA;&lt;p&gt;Hvorfor ikke gøre brug af vores mentorer ?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Skærmflyvningskursus til ALLE</title>
+				<link>https://herningfk.dk/post/cp-noswoop-2024/</link>
+				<pubDate>Sat, 27 Apr 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/post/cp-noswoop-2024/</guid>
+				<description>&lt;h4 id=&#34;alle-har-ret-til-et-fedt-skærmflyvningskursus&#34;&gt;Alle har ret til et fedt skærmflyvningskursus&lt;/h4&gt;&#xA;&lt;p&gt;I 2024 besluttede bestyrelsen at støtte op omkring medlemmernes udvikling ved at forærre ALLE et skærmslyvningskursus. Anders Nedergaard-Hansen står klar alle disse dage&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;4&#34;&gt;&#xA;&lt;li&gt;maj&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;juni&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;13&#34;&gt;&#xA;&lt;li&gt;juli&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;31&#34;&gt;&#xA;&lt;li&gt;august&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Der er ingen undskyldning - DU SKAL MED!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Introduktion til Swooping</title>
+				<link>https://herningfk.dk/post/cp-swoop-2024/</link>
+				<pubDate>Sat, 13 Apr 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/post/cp-swoop-2024/</guid>
+				<description>&lt;h4 id=&#34;alle-har-ret-til-et-fedt-skærmflyvningskursus&#34;&gt;Alle har ret til et fedt skærmflyvningskursus&lt;/h4&gt;&#xA;&lt;p&gt;I 2024 besluttede bestyrelsen at støtte op omkring medlemmernes udvikling ved at forærre ALLE et skærmslyvningskursus. Vi har aftalt to forskellige moduler, med Anders Nedergaard-Hansen og Timmi Thomsen - og det afholdes den 13. + 14. April 2024.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

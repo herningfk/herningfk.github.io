@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2023 on HFK</title>
-    <link>https://herningfk.dk/tags/2023/</link>
-    <description>Recent content in 2023 on HFK</description>
-    <generator>Hugo</generator>
-    <language>da-DK</language>
-    <lastBuildDate>Mon, 20 Feb 2023 18:00:00 +0000</lastBuildDate>
-    <atom:link href="https://herningfk.dk/tags/2023/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Referat fra HFK Generalforsamlinge 2023</title>
-      <link>https://herningfk.dk/post/gf2023-ref/</link>
-      <pubDate>Wed, 01 Mar 2023 15:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/gf2023-ref/</guid>
-      <description>&lt;h4 id=&#34;referat-fra-generalforsamlingen-2023&#34;&gt;Referat fra generalforsamlingen 2023&lt;/h4&gt;&#xA;&lt;p&gt;HFK afholdte generalforsamling 3. februar 2023 @ 18:00.&lt;/p&gt;&#xA;&lt;h4 id=&#34;referat&#34;&gt;Referat&lt;/h4&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div style=&#34;display: flex; justify-content: center; align-items: center; padding: 10px;&#34;&gt;&#xA;    &lt;a href=&#34;https://herningfk.dk/pdf/HFK_Generalforsamling_2023.pdf&#34; style=&#34;text-decoration: none;&#34;&gt;&#xA;        &lt;button style=&#34;background-color: #3498db; color: #fff; padding: 10px 20px; border: none; border-radius: 4px;&#34;&gt;Læs referat&lt;/button&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Tak &lt;strong&gt;alle de fremmødte&lt;/strong&gt; for en god generalforsamling&lt;br&gt;&#xA;på vegne af Herning Faldskærmsklub&lt;br&gt;&#xA;Thomas Gilbert ( formand )&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>2023 on HFK</title>
+		<link>https://herningfk.dk/tags/2023/</link>
+		<description>Recent content in 2023 on HFK</description>
+		<generator>Hugo</generator>
+		<language>da-DK</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 20 Feb 2023 18:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://herningfk.dk/tags/2023/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Referat fra HFK Generalforsamlinge 2023</title>
+				<link>https://herningfk.dk/post/gf2023-ref/</link>
+				<pubDate>Wed, 01 Mar 2023 15:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/post/gf2023-ref/</guid>
+				<description>&lt;h4 id=&#34;referat-fra-generalforsamlingen-2023&#34;&gt;Referat fra generalforsamlingen 2023&lt;/h4&gt;&#xA;&lt;p&gt;HFK afholdte generalforsamling 3. februar 2023 @ 18:00.&lt;/p&gt;&#xA;&lt;h4 id=&#34;referat&#34;&gt;Referat&lt;/h4&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div style=&#34;display: flex; justify-content: center; align-items: center; padding: 10px;&#34;&gt;&#xA;    &lt;a href=&#34;https://herningfk.dk/pdf/HFK_Generalforsamling_2023.pdf&#34; style=&#34;text-decoration: none;&#34;&gt;&#xA;        &lt;button style=&#34;background-color: #3498db; color: #fff; padding: 10px 20px; border: none; border-radius: 4px;&#34;&gt;Læs referat&lt;/button&gt;&#xA;    &lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Tak &lt;strong&gt;alle de fremmødte&lt;/strong&gt; for en god generalforsamling&lt;br&gt;&#xA;på vegne af Herning Faldskærmsklub&lt;br&gt;&#xA;Thomas Gilbert ( formand )&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

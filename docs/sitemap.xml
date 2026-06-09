@@ -1,7 +1,53 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://herningfk.dk/tags/boogie/</loc>
+    <lastmod>2026-06-01T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://herningfk.dk/tags/events/</loc>
+    <lastmod>2026-06-01T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://herningfk.dk/tags/f%C3%A6llesskab/</loc>
+    <lastmod>2026-06-01T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://herningfk.dk/tags/gratis/</loc>
+    <lastmod>2026-06-01T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://herningfk.dk/</loc>
+    <lastmod>2026-06-01T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://herningfk.dk/tags/hygge/</loc>
+    <lastmod>2026-06-01T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://herningfk.dk/post/aktiviteter2026/</loc>
+    <lastmod>2026-06-01T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://herningfk.dk/tags/sk%C3%A6rmflyvning/</loc>
+    <lastmod>2026-06-01T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://herningfk.dk/tags/</loc>
+    <lastmod>2026-06-01T08:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://herningfk.dk/tags/2026/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -32,11 +78,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://herningfk.dk/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://herningfk.dk/tags/hfk/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -48,11 +89,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://herningfk.dk/tags/safety-day/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://herningfk.dk/tags/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -72,22 +108,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://herningfk.dk/tags/gratis/</loc>
-    <lastmod>2025-05-31T08:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://herningfk.dk/tags/mentor/</loc>
     <lastmod>2025-05-31T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://herningfk.dk/tags/momentum/</loc>
-    <lastmod>2025-05-31T08:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://herningfk.dk/tags/sk%C3%A6rmflyvning/</loc>
     <lastmod>2025-05-31T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

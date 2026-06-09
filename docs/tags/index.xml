@@ -1,390 +1,423 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on HFK</title>
-    <link>https://herningfk.dk/tags/</link>
-    <description>Recent content in Tags on HFK</description>
-    <generator>Hugo</generator>
-    <language>da-DK</language>
-    <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://herningfk.dk/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2026</title>
-      <link>https://herningfk.dk/tags/2026/</link>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/2026/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Budget</title>
-      <link>https://herningfk.dk/tags/budget/</link>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/budget/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Faldskærmsklub</title>
-      <link>https://herningfk.dk/tags/faldsk%C3%A6rmsklub/</link>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/faldsk%C3%A6rmsklub/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Formand</title>
-      <link>https://herningfk.dk/tags/formand/</link>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/formand/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Generalforsamling</title>
-      <link>https://herningfk.dk/tags/generalforsamling/</link>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/generalforsamling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Herning</title>
-      <link>https://herningfk.dk/tags/herning/</link>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/herning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hfk</title>
-      <link>https://herningfk.dk/tags/hfk/</link>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/hfk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Safety Day</title>
-      <link>https://herningfk.dk/tags/safety-day/</link>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/safety-day/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Valg</title>
-      <link>https://herningfk.dk/tags/valg/</link>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/valg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Flocking</title>
-      <link>https://herningfk.dk/tags/flocking/</link>
-      <pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/flocking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gratis</title>
-      <link>https://herningfk.dk/tags/gratis/</link>
-      <pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/gratis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mentor</title>
-      <link>https://herningfk.dk/tags/mentor/</link>
-      <pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/mentor/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Momentum</title>
-      <link>https://herningfk.dk/tags/momentum/</link>
-      <pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/momentum/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Skærmflyvning</title>
-      <link>https://herningfk.dk/tags/sk%C3%A6rmflyvning/</link>
-      <pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/sk%C3%A6rmflyvning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Støtte</title>
-      <link>https://herningfk.dk/tags/st%C3%B8tte/</link>
-      <pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/st%C3%B8tte/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tunnel</title>
-      <link>https://herningfk.dk/tags/tunnel/</link>
-      <pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/tunnel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>4-Way</title>
-      <link>https://herningfk.dk/tags/4-way/</link>
-      <pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/4-way/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Angle</title>
-      <link>https://herningfk.dk/tags/angle/</link>
-      <pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/angle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Headdown</title>
-      <link>https://herningfk.dk/tags/headdown/</link>
-      <pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/headdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Headup</title>
-      <link>https://herningfk.dk/tags/headup/</link>
-      <pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/headup/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Organizer</title>
-      <link>https://herningfk.dk/tags/organizer/</link>
-      <pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/organizer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Party</title>
-      <link>https://herningfk.dk/tags/party/</link>
-      <pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/party/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Certifikat</title>
-      <link>https://herningfk.dk/tags/certifikat/</link>
-      <pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/certifikat/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kursus</title>
-      <link>https://herningfk.dk/tags/kursus/</link>
-      <pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/kursus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pakke</title>
-      <link>https://herningfk.dk/tags/pakke/</link>
-      <pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/pakke/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Riggerloftet</title>
-      <link>https://herningfk.dk/tags/riggerloftet/</link>
-      <pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/riggerloftet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Senior</title>
-      <link>https://herningfk.dk/tags/senior/</link>
-      <pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/senior/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Seniorpakker</title>
-      <link>https://herningfk.dk/tags/seniorpakker/</link>
-      <pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/seniorpakker/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2025</title>
-      <link>https://herningfk.dk/tags/2025/</link>
-      <pubDate>Tue, 20 Feb 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/2025/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>B-B-B</title>
-      <link>https://herningfk.dk/tags/b-b-b/</link>
-      <pubDate>Fri, 02 Aug 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/b-b-b/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bbb</title>
-      <link>https://herningfk.dk/tags/bbb/</link>
-      <pubDate>Fri, 02 Aug 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/bbb/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dm</title>
-      <link>https://herningfk.dk/tags/dm/</link>
-      <pubDate>Fri, 02 Aug 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/dm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fdk</title>
-      <link>https://herningfk.dk/tags/fdk/</link>
-      <pubDate>Fri, 02 Aug 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/fdk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Maribo</title>
-      <link>https://herningfk.dk/tags/maribo/</link>
-      <pubDate>Fri, 02 Aug 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/maribo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coaching</title>
-      <link>https://herningfk.dk/tags/coaching/</link>
-      <pubDate>Thu, 27 Jun 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/coaching/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cp</title>
-      <link>https://herningfk.dk/tags/cp/</link>
-      <pubDate>Thu, 27 Jun 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/cp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fs</title>
-      <link>https://herningfk.dk/tags/fs/</link>
-      <pubDate>Thu, 27 Jun 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/fs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fun</title>
-      <link>https://herningfk.dk/tags/fun/</link>
-      <pubDate>Thu, 27 Jun 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/fun/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>3-Way</title>
-      <link>https://herningfk.dk/tags/3-way/</link>
-      <pubDate>Wed, 22 May 2024 12:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/3-way/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Konkurrence</title>
-      <link>https://herningfk.dk/tags/konkurrence/</link>
-      <pubDate>Wed, 22 May 2024 12:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/konkurrence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scramble</title>
-      <link>https://herningfk.dk/tags/scramble/</link>
-      <pubDate>Wed, 22 May 2024 12:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/scramble/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Swoop</title>
-      <link>https://herningfk.dk/tags/swoop/</link>
-      <pubDate>Sat, 13 Apr 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/swoop/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Swooping</title>
-      <link>https://herningfk.dk/tags/swooping/</link>
-      <pubDate>Sat, 13 Apr 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/swooping/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2024</title>
-      <link>https://herningfk.dk/tags/2024/</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/2024/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Faldskærm</title>
-      <link>https://herningfk.dk/tags/faldsk%C3%A6rm/</link>
-      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/faldsk%C3%A6rm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gave</title>
-      <link>https://herningfk.dk/tags/gave/</link>
-      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/gave/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gaveregn</title>
-      <link>https://herningfk.dk/tags/gaveregn/</link>
-      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/gaveregn/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Julehilsen</title>
-      <link>https://herningfk.dk/tags/julehilsen/</link>
-      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/julehilsen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nissen</title>
-      <link>https://herningfk.dk/tags/nissen/</link>
-      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/nissen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Undertræet</title>
-      <link>https://herningfk.dk/tags/undertr%C3%A6et/</link>
-      <pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/undertr%C3%A6et/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Single a Niveau</title>
-      <link>https://herningfk.dk/tags/single-a-niveau/</link>
-      <pubDate>Sun, 01 Oct 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/single-a-niveau/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Camp</title>
-      <link>https://herningfk.dk/tags/camp/</link>
-      <pubDate>Fri, 02 Jun 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/camp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Skills</title>
-      <link>https://herningfk.dk/tags/skills/</link>
-      <pubDate>Fri, 02 Jun 2023 17:00:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/skills/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>2023</title>
-      <link>https://herningfk.dk/tags/2023/</link>
-      <pubDate>Wed, 01 Mar 2023 15:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/tags/2023/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tags on HFK</title>
+		<link>https://herningfk.dk/tags/</link>
+		<description>Recent content in Tags on HFK</description>
+		<generator>Hugo</generator>
+		<language>da-DK</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jun 2026 08:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://herningfk.dk/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Boogie</title>
+				<link>https://herningfk.dk/tags/boogie/</link>
+				<pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/boogie/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Events</title>
+				<link>https://herningfk.dk/tags/events/</link>
+				<pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/events/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fællesskab</title>
+				<link>https://herningfk.dk/tags/f%C3%A6llesskab/</link>
+				<pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/f%C3%A6llesskab/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gratis</title>
+				<link>https://herningfk.dk/tags/gratis/</link>
+				<pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/gratis/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hygge</title>
+				<link>https://herningfk.dk/tags/hygge/</link>
+				<pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/hygge/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Skærmflyvning</title>
+				<link>https://herningfk.dk/tags/sk%C3%A6rmflyvning/</link>
+				<pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/sk%C3%A6rmflyvning/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2026</title>
+				<link>https://herningfk.dk/tags/2026/</link>
+				<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/2026/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Budget</title>
+				<link>https://herningfk.dk/tags/budget/</link>
+				<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/budget/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Faldskærmsklub</title>
+				<link>https://herningfk.dk/tags/faldsk%C3%A6rmsklub/</link>
+				<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/faldsk%C3%A6rmsklub/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Formand</title>
+				<link>https://herningfk.dk/tags/formand/</link>
+				<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/formand/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Generalforsamling</title>
+				<link>https://herningfk.dk/tags/generalforsamling/</link>
+				<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/generalforsamling/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Herning</title>
+				<link>https://herningfk.dk/tags/herning/</link>
+				<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/herning/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hfk</title>
+				<link>https://herningfk.dk/tags/hfk/</link>
+				<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/hfk/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Safety Day</title>
+				<link>https://herningfk.dk/tags/safety-day/</link>
+				<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/safety-day/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Valg</title>
+				<link>https://herningfk.dk/tags/valg/</link>
+				<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/valg/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Flocking</title>
+				<link>https://herningfk.dk/tags/flocking/</link>
+				<pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/flocking/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mentor</title>
+				<link>https://herningfk.dk/tags/mentor/</link>
+				<pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/mentor/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Momentum</title>
+				<link>https://herningfk.dk/tags/momentum/</link>
+				<pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/momentum/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Støtte</title>
+				<link>https://herningfk.dk/tags/st%C3%B8tte/</link>
+				<pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/st%C3%B8tte/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tunnel</title>
+				<link>https://herningfk.dk/tags/tunnel/</link>
+				<pubDate>Sat, 31 May 2025 08:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/tunnel/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>4-Way</title>
+				<link>https://herningfk.dk/tags/4-way/</link>
+				<pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/4-way/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Angle</title>
+				<link>https://herningfk.dk/tags/angle/</link>
+				<pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/angle/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Headdown</title>
+				<link>https://herningfk.dk/tags/headdown/</link>
+				<pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/headdown/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Headup</title>
+				<link>https://herningfk.dk/tags/headup/</link>
+				<pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/headup/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Organizer</title>
+				<link>https://herningfk.dk/tags/organizer/</link>
+				<pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/organizer/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Party</title>
+				<link>https://herningfk.dk/tags/party/</link>
+				<pubDate>Sun, 09 Mar 2025 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/party/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Certifikat</title>
+				<link>https://herningfk.dk/tags/certifikat/</link>
+				<pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/certifikat/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Kursus</title>
+				<link>https://herningfk.dk/tags/kursus/</link>
+				<pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/kursus/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pakke</title>
+				<link>https://herningfk.dk/tags/pakke/</link>
+				<pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/pakke/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Riggerloftet</title>
+				<link>https://herningfk.dk/tags/riggerloftet/</link>
+				<pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/riggerloftet/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Senior</title>
+				<link>https://herningfk.dk/tags/senior/</link>
+				<pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/senior/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Seniorpakker</title>
+				<link>https://herningfk.dk/tags/seniorpakker/</link>
+				<pubDate>Sat, 08 Mar 2025 20:48:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/seniorpakker/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2025</title>
+				<link>https://herningfk.dk/tags/2025/</link>
+				<pubDate>Tue, 20 Feb 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/2025/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>B-B-B</title>
+				<link>https://herningfk.dk/tags/b-b-b/</link>
+				<pubDate>Fri, 02 Aug 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/b-b-b/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bbb</title>
+				<link>https://herningfk.dk/tags/bbb/</link>
+				<pubDate>Fri, 02 Aug 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/bbb/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dm</title>
+				<link>https://herningfk.dk/tags/dm/</link>
+				<pubDate>Fri, 02 Aug 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/dm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fdk</title>
+				<link>https://herningfk.dk/tags/fdk/</link>
+				<pubDate>Fri, 02 Aug 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/fdk/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Maribo</title>
+				<link>https://herningfk.dk/tags/maribo/</link>
+				<pubDate>Fri, 02 Aug 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/maribo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Coaching</title>
+				<link>https://herningfk.dk/tags/coaching/</link>
+				<pubDate>Thu, 27 Jun 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/coaching/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cp</title>
+				<link>https://herningfk.dk/tags/cp/</link>
+				<pubDate>Thu, 27 Jun 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/cp/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fs</title>
+				<link>https://herningfk.dk/tags/fs/</link>
+				<pubDate>Thu, 27 Jun 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/fs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fun</title>
+				<link>https://herningfk.dk/tags/fun/</link>
+				<pubDate>Thu, 27 Jun 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/fun/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>3-Way</title>
+				<link>https://herningfk.dk/tags/3-way/</link>
+				<pubDate>Wed, 22 May 2024 12:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/3-way/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Konkurrence</title>
+				<link>https://herningfk.dk/tags/konkurrence/</link>
+				<pubDate>Wed, 22 May 2024 12:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/konkurrence/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Scramble</title>
+				<link>https://herningfk.dk/tags/scramble/</link>
+				<pubDate>Wed, 22 May 2024 12:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/scramble/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Swoop</title>
+				<link>https://herningfk.dk/tags/swoop/</link>
+				<pubDate>Sat, 13 Apr 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/swoop/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Swooping</title>
+				<link>https://herningfk.dk/tags/swooping/</link>
+				<pubDate>Sat, 13 Apr 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/swooping/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2024</title>
+				<link>https://herningfk.dk/tags/2024/</link>
+				<pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/2024/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Faldskærm</title>
+				<link>https://herningfk.dk/tags/faldsk%C3%A6rm/</link>
+				<pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/faldsk%C3%A6rm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gave</title>
+				<link>https://herningfk.dk/tags/gave/</link>
+				<pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/gave/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gaveregn</title>
+				<link>https://herningfk.dk/tags/gaveregn/</link>
+				<pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/gaveregn/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Julehilsen</title>
+				<link>https://herningfk.dk/tags/julehilsen/</link>
+				<pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/julehilsen/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Nissen</title>
+				<link>https://herningfk.dk/tags/nissen/</link>
+				<pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/nissen/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Undertræet</title>
+				<link>https://herningfk.dk/tags/undertr%C3%A6et/</link>
+				<pubDate>Thu, 21 Dec 2023 22:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/undertr%C3%A6et/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Single a Niveau</title>
+				<link>https://herningfk.dk/tags/single-a-niveau/</link>
+				<pubDate>Sun, 01 Oct 2023 17:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/single-a-niveau/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Camp</title>
+				<link>https://herningfk.dk/tags/camp/</link>
+				<pubDate>Fri, 02 Jun 2023 17:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/camp/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Skills</title>
+				<link>https://herningfk.dk/tags/skills/</link>
+				<pubDate>Fri, 02 Jun 2023 17:00:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/skills/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>2023</title>
+				<link>https://herningfk.dk/tags/2023/</link>
+				<pubDate>Wed, 01 Mar 2023 15:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/tags/2023/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

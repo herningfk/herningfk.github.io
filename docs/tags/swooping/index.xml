@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Swooping on HFK</title>
-    <link>https://herningfk.dk/tags/swooping/</link>
-    <description>Recent content in Swooping on HFK</description>
-    <generator>Hugo</generator>
-    <language>da-DK</language>
-    <lastBuildDate>Sun, 28 Apr 2024 00:56:00 +0000</lastBuildDate>
-    <atom:link href="https://herningfk.dk/tags/swooping/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduktion til Swooping</title>
-      <link>https://herningfk.dk/post/cp-swoop-2024/</link>
-      <pubDate>Sat, 13 Apr 2024 00:56:00 +0000</pubDate>
-      <guid>https://herningfk.dk/post/cp-swoop-2024/</guid>
-      <description>&lt;h4 id=&#34;alle-har-ret-til-et-fedt-skærmflyvningskursus&#34;&gt;Alle har ret til et fedt skærmflyvningskursus&lt;/h4&gt;&#xA;&lt;p&gt;I 2024 besluttede bestyrelsen at støtte op omkring medlemmernes udvikling ved at forærre ALLE et skærmslyvningskursus. Vi har aftalt to forskellige moduler, med Anders Nedergaard-Hansen og Timmi Thomsen - og det afholdes den 13. + 14. April 2024.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Swooping on HFK</title>
+		<link>https://herningfk.dk/tags/swooping/</link>
+		<description>Recent content in Swooping on HFK</description>
+		<generator>Hugo</generator>
+		<language>da-DK</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 28 Apr 2024 00:56:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://herningfk.dk/tags/swooping/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Introduktion til Swooping</title>
+				<link>https://herningfk.dk/post/cp-swoop-2024/</link>
+				<pubDate>Sat, 13 Apr 2024 00:56:00 +0000</pubDate>
+				<guid>https://herningfk.dk/post/cp-swoop-2024/</guid>
+				<description>&lt;h4 id=&#34;alle-har-ret-til-et-fedt-skærmflyvningskursus&#34;&gt;Alle har ret til et fedt skærmflyvningskursus&lt;/h4&gt;&#xA;&lt;p&gt;I 2024 besluttede bestyrelsen at støtte op omkring medlemmernes udvikling ved at forærre ALLE et skærmslyvningskursus. Vi har aftalt to forskellige moduler, med Anders Nedergaard-Hansen og Timmi Thomsen - og det afholdes den 13. + 14. April 2024.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

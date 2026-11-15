@@ -1,0 +1,13 @@
+{{- /*
+  Social preview image (Facebook, Messenger, X, etc.) from `featured_image`.
+  Hugo's built-in Open Graph / Twitter card templates only read the `images`
+  front matter field, so without this, pages get no preview image.
+  Skipped when a page sets `images`, to avoid duplicate tags.
+*/ -}}
+{{- if not .Params.images }}
+  {{- with .Params.featured_image }}
+    {{- $image := strings.Trim . "/" | absURL }}
+    <meta property="og:image" content="{{ $image }}">
+    <meta name="twitter:image" content="{{ $image }}">
+  {{- end }}
+{{- end }}

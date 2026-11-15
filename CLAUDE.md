@@ -33,6 +33,7 @@ The custom domain (`herningfk.dk`) is set via `docs/CNAME`.
 - **Theme**: Ananke v2.19.1 via Go Modules (`github.com/gohugo-ananke/ananke/v2` in `go.mod`; the theme moved there from `theNewDynamic/gohugo-theme-ananke` in April 2026). Update with `hugo mod get github.com/gohugo-ananke/ananke/v2@<version> && hugo mod tidy`. No git submodules despite `.gitmodules` existing (empty file).
 - **Theme hooks** in `layouts/_partials/hooks/` (Ananke's hook system; prefer this over overriding theme partials):
   - `head-end.html` — adds `og:image`/`twitter:image` from `featured_image`, since Hugo's built-in Open Graph template only reads `images`
+  - `article/section-link.html` — intentionally empty; hides the section label ("BLOG") above article titles
 - **Content**: All under `content/da/` (single language, Danish). Uses YAML front matter (`---`). Posts are in `content/da/post/`.
 - **Custom shortcodes** in `layouts/shortcodes/`:
   - `button.html` — styled button with `text` and `link` params

@@ -34,6 +34,8 @@ The custom domain (`herningfk.dk`) is set via `docs/CNAME`.
 - **Theme hooks** in `layouts/_partials/hooks/` (Ananke's hook system; prefer this over overriding theme partials):
   - `head-end.html` — adds `og:image`/`twitter:image` from `featured_image`, since Hugo's built-in Open Graph template only reads `images`
   - `article/section-link.html` — intentionally empty; hides the section label ("BLOG") above article titles
+- **Danish translations**: `i18n/da.toml`. Ananke ships no Danish strings, so without this file theme labels render empty or in English. When upgrading the theme, compare it with the theme's `i18n/en.toml` for new keys.
+- **Template override**: `layouts/summary-with-image.html` is a copy of the theme's template with the hardcoded English "By" and image alt text translated. When upgrading the theme, diff it against the new theme version.
 - **Content**: All under `content/da/` (single language, Danish). Uses YAML front matter (`---`). Posts are in `content/da/post/`.
 - **Custom shortcodes** in `layouts/shortcodes/`:
   - `button.html` — styled button with `text` and `link` params

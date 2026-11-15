@@ -1,0 +1,61 @@
+# Danish translations for the Ananke theme, which ships without a da.toml.
+# Keys mirror the theme's i18n/en.toml.
+
+[more]
+other = "Mere"
+
+[allTitle]
+other = "Alle {{ .Title }}"
+
+[recentTitle]
+other = "Seneste {{ .Title }}"
+
+[readMore]
+other = "læs mere"
+
+[by]
+other = "Af"
+
+[whatsInThis]
+other = "Indhold i denne {{ .Type }}"
+
+[related]
+other = "Relaterede"
+
+[yourName]
+other = "Dit navn"
+
+[emailAddress]
+other = "E-mailadresse"
+
+[message]
+other = "Besked"
+
+[emailRequiredNote]
+other = "E-mailadresse er påkrævet."
+
+[send]
+other = "Send"
+
+[editPage]
+other = "Forbedr denne side på GitHub"
+
+[since]
+other = "siden"
+
+[taxonomyPageList]
+other = "Herunder finder du sider med tagget “{{ .Title }}”"
+
+[readingTime]
+one = "Ét minuts læsning"
+other = "{{ .Count }} minutters læsning"
+
+[wordCount]
+one = "Ét ord"
+other = "{{ .Count }} ord"
+
+[pageTitle]
+other = "{{ .Name }}-side"
+
+[imageFrom]
+other = "Billede fra {{ .Title }}"

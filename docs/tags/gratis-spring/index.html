@@ -16,14 +16,78 @@
     <meta name="author" content="Thomas Gilbert">
     
 
+    <link rel="stylesheet" href="/ananke/css/main.02a37ad6c4e155c542d276915a0e3f83f5c7c5fec443350f6e60753f1679b7a7.css" integrity="sha256-AqN61sThVcVC0naRWg4/g/XHxf7EQzUPbmB1PxZ5t6c=" crossorigin="anonymous">
+    <script>
+  (function () {
+    "use strict";
+
     
-<link rel="stylesheet" href="/ananke/css/main.min.226225455b715cfac94d5b5be501f998f5f1b5c61784be6450b510f2658883b2.css" >
-
-
-
-
     
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -41,6 +105,8 @@
       <link rel="canonical" href="https://herningfk.dk/tags/gratis-spring/">
     
 
+    
+    
     <meta property="og:url" content="https://herningfk.dk/tags/gratis-spring/">
 	<meta property="og:site_name" content="HFK">
 	<meta property="og:title" content="Gratis Spring">
@@ -57,15 +123,15 @@
 	<meta name="twitter:description" content="Hjemmesiden for Herning Faldskærmsklub">
 
       
+      
     
 	
     <meta property="og:image" content="https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666304126/hfksource/images/loop_mdbrb5.png">
     <meta name="twitter:image" content="https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666304126/hfksource/images/loop_mdbrb5.png">
 
-  </head><body class="ma0 avenir bg-near-white production">
+  </head><body class="ma0 avenir bg-near-white production is-term">
 
-    
-
+  
   
   
   <header class="cover bg-top" style="background-image: url('https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666304126/hfksource/images/loop_mdbrb5.png');">
@@ -137,23 +203,19 @@
     </div>
   </header>
 
+<main class="pb7" role="main">
+  
+  
 
-    <main class="pb7" role="main">
-      
-  <article class="cf pa3 pa4-m pa4-l">
-    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links mid-gray">
-      <p></p>
-    </div>
-  </article>
-  <div class="mw8 center">
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray"></section>
     <section class="flex-ns mt5 flex-wrap justify-around">
       
-        <div class="w-100 mb4 relative bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
+        <div class="w-100 w-30-l mb4 relative bg-white">
+            
+  <div class="mb3 pa4 mid-gray overflow-hidden">
     
-      <div class="f6">
-        24. oktober 2026
-      </div>
+      <time class="f6 db" datetime="2026-10-24T08:00:00Z">24. oktober 2026</time>
     
     <h1 class="f3 near-black">
       <a href="/post/julespring2026/" class="link black dim">
@@ -170,10 +232,8 @@
         </div>
       
     </section>
-  </div>
-
-    </main>
-    <footer class="bg-green bottom-0 w-100 pa3" role="contentinfo">
+    </article>
+</main><footer class="bg-green bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://herningfk.dk/" >
     &copy;  HFK 2026 
@@ -182,6 +242,35 @@
 </div>
   </div>
 </footer>
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

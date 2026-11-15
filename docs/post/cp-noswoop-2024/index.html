@@ -40,14 +40,78 @@ Der er ingen undskyldning - DU SKAL MED!">
     <meta name="author" content="Thomas Gilbert">
     
 
+    <link rel="stylesheet" href="/ananke/css/main.02a37ad6c4e155c542d276915a0e3f83f5c7c5fec443350f6e60753f1679b7a7.css" integrity="sha256-AqN61sThVcVC0naRWg4/g/XHxf7EQzUPbmB1PxZ5t6c=" crossorigin="anonymous">
+    <script>
+  (function () {
+    "use strict";
+
     
-<link rel="stylesheet" href="/ananke/css/main.min.226225455b715cfac94d5b5be501f998f5f1b5c61784be6450b510f2658883b2.css" >
-
-
-
-
     
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -60,6 +124,8 @@ Der er ingen undskyldning - DU SKAL MED!">
       <link rel="canonical" href="https://herningfk.dk/post/cp-noswoop-2024/">
     
 
+    
+    
     <meta property="og:url" content="https://herningfk.dk/post/cp-noswoop-2024/">
 	<meta property="og:site_name" content="HFK">
 	<meta property="og:title" content="Skærmflyvningskursus til ALLE">
@@ -87,17 +153,23 @@ maj juni juli august Der er ingen undskyldning - DU SKAL MED!">
 maj juni juli august Der er ingen undskyldning - DU SKAL MED!">
 
       
+      
     
 	
     <meta property="og:image" content="https://res.cloudinary.com/dzanurchx/image/upload/f_auto,q_auto/v1/hfksource/images/myhdydf6mciksruwkkls">
     <meta name="twitter:image" content="https://res.cloudinary.com/dzanurchx/image/upload/f_auto,q_auto/v1/hfksource/images/myhdydf6mciksruwkkls">
 
-  </head><body class="ma0 avenir bg-near-white production">
-
-    
+  </head><body class="ma0 avenir bg-near-white production is-page is-page page-cp-noswoop-2024">
    
   
 
+
+  
+  
+  
+  
+  
+  
   
   
   
@@ -170,17 +242,13 @@ maj juni juli august Der er ingen undskyldning - DU SKAL MED!">
   </header>
 
 
+<main class="pb7" role="main">
+  
 
-    <main class="pb7" role="main">
-      
-  
-  
-  <article class="flex-l mw8 center ph3 flex-wrap justify-between">
-    <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked ttu">
-          
-        Blog
-      </aside><div id="sharing" class="mt3 ananke-socials"></div>
+  <article class="page-cp-noswoop-2024 flex-l mw8 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100"><aside class="instapaper_ignoref b helvetica tracked ttu">
+    <a class="link dim" href="https://herningfk.dk/post/">Blog</a>
+  </aside><div id="sharing" class="mt3 ananke-socials"></div>
 <h1 class="f1 athelas mt3 mb1">Skærmflyvningskursus til ALLE</h1>
       
       <p class="tracked"><strong>Thomas Gilbert</strong>
@@ -245,6 +313,8 @@ maj juni juli august Der er ingen undskyldning - DU SKAL MED!">
 <h4 id="tilmelding">TILMELDING:</h4>
 <p>Der er link til tilmelding ovenfor, og har du spørgsmål så skriv til os.</p><ul class="pa0">
   
+</ul><ul class="pa0">
+  
    <li class="list di">
      <a href="/tags/gratis/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Gratis</a>
    </li>
@@ -258,13 +328,9 @@ maj juni juli august Der er ingen undskyldning - DU SKAL MED!">
    </li>
   
 </ul>
-<div class="mt6 instapaper_ignoref">
-      
-      
-      </div>
-    </div>
 
-    <aside class="w-30-l mt6-l">
+      
+    </div><aside class="w-30-l mt6-l">
 
 
 
@@ -280,12 +346,8 @@ maj juni juli august Der er ingen undskyldning - DU SKAL MED!">
     </ul>
 </div>
 
-</aside>
-
-  </article>
-
-    </main>
-    <footer class="bg-green bottom-0 w-100 pa3" role="contentinfo">
+</aside></article>
+</main><footer class="bg-green bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://herningfk.dk/" >
     &copy;  HFK 2026 
@@ -294,6 +356,35 @@ maj juni juli august Der er ingen undskyldning - DU SKAL MED!">
 </div>
   </div>
 </footer>
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

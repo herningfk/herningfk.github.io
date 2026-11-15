@@ -1,8 +1,8 @@
 baseURL = 'https://herningfk.dk/'
-languageCode = 'da-DK'
+locale = 'da-DK'
 title = 'Herning Faldskærmsklub'
 
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+theme = ["github.com/gohugo-ananke/ananke/v2"]
 
 DefaultContentLanguage = "da"
 SectionPagesMenu = "main"

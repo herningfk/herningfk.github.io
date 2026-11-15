@@ -18,14 +18,78 @@ Hvorfor ikke gøre brug af vores mentorer ?">
     <meta name="author" content="Thomas Gilbert">
     
 
+    <link rel="stylesheet" href="/ananke/css/main.02a37ad6c4e155c542d276915a0e3f83f5c7c5fec443350f6e60753f1679b7a7.css" integrity="sha256-AqN61sThVcVC0naRWg4/g/XHxf7EQzUPbmB1PxZ5t6c=" crossorigin="anonymous">
+    <script>
+  (function () {
+    "use strict";
+
     
-<link rel="stylesheet" href="/ananke/css/main.min.226225455b715cfac94d5b5be501f998f5f1b5c61784be6450b510f2658883b2.css" >
-
-
-
-
     
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -38,6 +102,8 @@ Hvorfor ikke gøre brug af vores mentorer ?">
       <link rel="canonical" href="https://herningfk.dk/post/mentorship/">
     
 
+    
+    
     <meta property="og:url" content="https://herningfk.dk/post/mentorship/">
 	<meta property="og:site_name" content="HFK">
 	<meta property="og:title" content="HFK Annoncerer Mentorordning">
@@ -67,17 +133,23 @@ Hvorfor ikke gøre brug af vores mentorer ?">
 Hvorfor ikke gøre brug af vores mentorer ?">
 
       
+      
     
 	
     <meta property="og:image" content="https://res.cloudinary.com/dzanurchx/image/upload/f_auto,q_auto/v1719519794/hfksource/mentorship/IMG_1999_uj5usv.jpg">
     <meta name="twitter:image" content="https://res.cloudinary.com/dzanurchx/image/upload/f_auto,q_auto/v1719519794/hfksource/mentorship/IMG_1999_uj5usv.jpg">
 
-  </head><body class="ma0 avenir bg-near-white production">
-
-    
+  </head><body class="ma0 avenir bg-near-white production is-page is-page page-mentorship">
    
   
 
+
+  
+  
+  
+  
+  
+  
   
   
   
@@ -150,17 +222,13 @@ Hvorfor ikke gøre brug af vores mentorer ?">
   </header>
 
 
+<main class="pb7" role="main">
+  
 
-    <main class="pb7" role="main">
-      
-  
-  
-  <article class="flex-l mw8 center ph3 flex-wrap justify-between">
-    <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked ttu">
-          
-        Blog
-      </aside><div id="sharing" class="mt3 ananke-socials"></div>
+  <article class="page-mentorship flex-l mw8 center ph3 flex-wrap justify-between">
+    <header class="mt4 w-100"><aside class="instapaper_ignoref b helvetica tracked ttu">
+    <a class="link dim" href="https://herningfk.dk/post/">Blog</a>
+  </aside><div id="sharing" class="mt3 ananke-socials"></div>
 <h1 class="f1 athelas mt3 mb1">HFK Annoncerer Mentorordning</h1>
       
       <p class="tracked"><strong>Thomas Gilbert</strong>
@@ -201,6 +269,8 @@ Alternativt er det helt okay at spørge på dagen, om de er ‘med på noget’.
 </ul>
 <p>Vi glæder os til masser af mye oplevelser sammen 🪂</p><ul class="pa0">
   
+</ul><ul class="pa0">
+  
    <li class="list di">
      <a href="/tags/gratis/" class="link f5 grow br-pill ba ph3 pv2 mb2 dib black sans-serif no-underline">Gratis</a>
    </li>
@@ -222,13 +292,9 @@ Alternativt er det helt okay at spørge på dagen, om de er ‘med på noget’.
    </li>
   
 </ul>
-<div class="mt6 instapaper_ignoref">
-      
-      
-      </div>
-    </div>
 
-    <aside class="w-30-l mt6-l">
+      
+    </div><aside class="w-30-l mt6-l">
 
 
 
@@ -264,12 +330,8 @@ Alternativt er det helt okay at spørge på dagen, om de er ‘med på noget’.
     </ul>
 </div>
 
-</aside>
-
-  </article>
-
-    </main>
-    <footer class="bg-green bottom-0 w-100 pa3" role="contentinfo">
+</aside></article>
+</main><footer class="bg-green bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://herningfk.dk/" >
     &copy;  HFK 2026 
@@ -278,6 +340,35 @@ Alternativt er det helt okay at spørge på dagen, om de er ‘med på noget’.
 </div>
   </div>
 </footer>
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

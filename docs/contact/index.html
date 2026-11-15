@@ -16,14 +16,78 @@
     <meta name="author" content="Thomas Gilbert">
     
 
+    <link rel="stylesheet" href="/ananke/css/main.02a37ad6c4e155c542d276915a0e3f83f5c7c5fec443350f6e60753f1679b7a7.css" integrity="sha256-AqN61sThVcVC0naRWg4/g/XHxf7EQzUPbmB1PxZ5t6c=" crossorigin="anonymous">
+    <script>
+  (function () {
+    "use strict";
+
     
-<link rel="stylesheet" href="/ananke/css/main.min.226225455b715cfac94d5b5be501f998f5f1b5c61784be6450b510f2658883b2.css" >
-
-
-
-
     
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -36,6 +100,8 @@
       <link rel="canonical" href="https://herningfk.dk/contact/">
     
 
+    
+    
     <meta property="og:url" content="https://herningfk.dk/contact/">
 	<meta property="og:site_name" content="HFK">
 	<meta property="og:title" content="Kontakt">
@@ -51,15 +117,21 @@
 	<meta name="twitter:description" content="Skriv til os">
 
       
+      
     
 	
     <meta property="og:image" content="https://res.cloudinary.com/dzanurchx/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1698601088/hfksource/images/Screenshot_2021-06-28_at_21.42.50-2_kpb4me.jpg">
     <meta name="twitter:image" content="https://res.cloudinary.com/dzanurchx/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1698601088/hfksource/images/Screenshot_2021-06-28_at_21.42.50-2_kpb4me.jpg">
 
-  </head><body class="ma0 avenir bg-near-white production">
+  </head><body class="ma0 avenir bg-near-white production is-page is-page page-contact">
 
-    
 
+  
+  
+  
+  
+  
+  
   
   
   
@@ -128,18 +200,15 @@
     </div>
   </header>
 
-
-    <main class="pb7" role="main">
-      
+<main class="pb7" role="main">
   <div class="flex-l mt2 mw8 center">
-    <article class="center cf pv5 ph3 ph4-ns mw7">
+    <article class="page-contact center cf pv5 ph3 ph4-ns mw7">
       <header>
         <h1 class="f1">
           Kontakt
         </h1>
       </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray">
-        <p>Du er velkommen til at kontakte os hvis der er noget du gerne vil høre mere om.</p>
+      <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray"><p>Du er velkommen til at kontakte os hvis der er noget du gerne vil høre mere om.</p>
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mlevwwwz" method="post">
     <fieldset id="fs-frm-inputs">
@@ -259,13 +328,10 @@
       margin-right: 3%;
     }
     </style>
-
-      </div>
+</div>
     </article>
   </div>
-
-    </main>
-    <footer class="bg-green bottom-0 w-100 pa3" role="contentinfo">
+</main><footer class="bg-green bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://herningfk.dk/" >
     &copy;  HFK 2026 
@@ -274,6 +340,35 @@
 </div>
   </div>
 </footer>
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -16,14 +16,78 @@
     <meta name="author" content="Thomas Gilbert">
     
 
+    <link rel="stylesheet" href="/ananke/css/main.02a37ad6c4e155c542d276915a0e3f83f5c7c5fec443350f6e60753f1679b7a7.css" integrity="sha256-AqN61sThVcVC0naRWg4/g/XHxf7EQzUPbmB1PxZ5t6c=" crossorigin="anonymous">
+    <script>
+  (function () {
+    "use strict";
+
     
-<link rel="stylesheet" href="/ananke/css/main.min.226225455b715cfac94d5b5be501f998f5f1b5c61784be6450b510f2658883b2.css" >
-
-
-
-
     
+    function revealButtons() {
+      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].hidden = false;
+      }
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", revealButtons);
+    } else {
+      revealButtons();
+    }
 
+    function flash(button) {
+      var label = button.querySelector(".code-copy-label");
+      var previous = label ? label.textContent : null;
+      button.classList.add("is-copied");
+      if (label) label.textContent = "Copied";
+      window.setTimeout(function () {
+        button.classList.remove("is-copied");
+        if (label && previous !== null) label.textContent = previous;
+      }, 2000);
+    }
+
+    function legacyCopy(text) {
+      var area = document.createElement("textarea");
+      area.value = text;
+      area.setAttribute("readonly", "");
+      area.style.position = "absolute";
+      area.style.left = "-9999px";
+      document.body.appendChild(area);
+      area.select();
+      var ok = false;
+      try {
+        ok = document.execCommand("copy");
+      } catch (e) {
+        ok = false;
+      }
+      document.body.removeChild(area);
+      return ok;
+    }
+
+    function copyFrom(button) {
+      var container = button.closest(".code-block");
+      if (!container) return;
+      var pre = container.querySelector("pre");
+      if (!pre) return;
+      var source = pre.querySelector("code") || pre;
+      var text = source.innerText;
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(
+          function () { flash(button); },
+          function () { if (legacyCopy(text)) flash(button); }
+        );
+      } else if (legacyCopy(text)) {
+        flash(button);
+      }
+    }
+
+    document.addEventListener("click", function (event) {
+      var button = event.target.closest(".code-copy");
+      if (button) copyFrom(button);
+    });
+  })();
+</script>
 
     
       
@@ -36,6 +100,8 @@
       <link rel="canonical" href="https://herningfk.dk/student/">
     
 
+    
+    
     <meta property="og:url" content="https://herningfk.dk/student/">
 	<meta property="og:site_name" content="HFK">
 	<meta property="og:title" content="Elever">
@@ -51,15 +117,21 @@
 	<meta name="twitter:description" content="Dit første spring skal ikke være et tandem spring. Tag uddannelsen som faldskærmsspringer, og spring sikkert allerede fra første gang">
 
       
+      
     
 	
     <meta property="og:image" content="https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666304125/hfksource/images/student_af1zhw.png">
     <meta name="twitter:image" content="https://res.cloudinary.com/dzanurchx/image/upload/f_auto/v1666304125/hfksource/images/student_af1zhw.png">
 
-  </head><body class="ma0 avenir bg-near-white production">
+  </head><body class="ma0 avenir bg-near-white production is-page is-page page-student">
 
-    
 
+  
+  
+  
+  
+  
+  
   
   
   
@@ -135,18 +207,15 @@
     </div>
   </header>
 
-
-    <main class="pb7" role="main">
-      
+<main class="pb7" role="main">
   <div class="flex-l mt2 mw8 center">
-    <article class="center cf pv5 ph3 ph4-ns mw7">
+    <article class="page-student center cf pv5 ph3 ph4-ns mw7">
       <header>
         <h1 class="f1">
           Elever
         </h1>
       </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray">
-        <p>Hos HFK i Herning uddanner vi elever efter AFF princippet. Det står for <em>ACCELERATED FREEFALL</em> og betyder at man i løbet af ganske få spring, overvået af en instruktør, kan få lov til at springe fra 4,5km HELT ALENE. Det tager typisk 7 spring at opnå den nødvendige stabilitet, og man er under hele forløbet i trygge omgivelse og hjulpet af meget erfarne instruktører.</p>
+      <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray"><p>Hos HFK i Herning uddanner vi elever efter AFF princippet. Det står for <em>ACCELERATED FREEFALL</em> og betyder at man i løbet af ganske få spring, overvået af en instruktør, kan få lov til at springe fra 4,5km HELT ALENE. Det tager typisk 7 spring at opnå den nødvendige stabilitet, og man er under hele forløbet i trygge omgivelse og hjulpet af meget erfarne instruktører.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/f8Go6mdNo9o?autoplay=1&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=1&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Første spring fra 4000meter"></iframe>
 		</div>
@@ -206,13 +275,10 @@
 </figure>
 
 <p>Klubberne er alle utroligt aktive, og holder stævne på forskellige tidspunkter. Find klubberne på facebook, og følg med når der er aktivitet. Sammenholder er virkligt stærkt, og folk mødes både til spring og hygge.</p>
-
-      </div>
+</div>
     </article>
   </div>
-
-    </main>
-    <footer class="bg-green bottom-0 w-100 pa3" role="contentinfo">
+</main><footer class="bg-green bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://herningfk.dk/" >
     &copy;  HFK 2026 
@@ -221,6 +287,35 @@
 </div>
   </div>
 </footer>
-
-  </body>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

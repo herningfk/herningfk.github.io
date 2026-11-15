@@ -11,7 +11,7 @@ other = "Alle {{ .Title }}"
 other = "Seneste {{ .Title }}"
 
 [readMore]
-other = "læs mere"
+other = "Læs mere"
 
 [by]
 other = "Af"

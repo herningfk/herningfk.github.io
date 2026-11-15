@@ -1,0 +1,30 @@
+/*
+  Site styles for Herning Faldskærmsklub, bundled into the Ananke theme
+  stylesheet via params.ananke.custom_css in hugo.toml.
+*/
+
+/*
+  "Læs mere" link under post summaries (home page, Blog list, tag pages):
+  a dark green pill button instead of the theme's grey box.
+  The selector matches the theme's class list for that link. If a theme
+  upgrade changes those classes, the link falls back to the theme's look.
+*/
+a.ba.b--moon-gray.bg-light-gray.br2 {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: .5rem 1.25rem;
+  border: 0;
+  border-radius: 9999px;
+  background-color: #137752; /* Tachyons dark-green, same family as the green footer */
+  color: #fff;
+  font-size: .875rem;
+  font-weight: 600;
+  letter-spacing: .02em;
+  transition: background-color .15s ease-in;
+}
+
+a.ba.b--moon-gray.bg-light-gray.br2:hover,
+a.ba.b--moon-gray.bg-light-gray.br2:focus-visible {
+  background-color: #0e5c3f;
+  color: #fff;
+}

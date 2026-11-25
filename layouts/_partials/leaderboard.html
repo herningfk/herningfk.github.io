@@ -1,0 +1,42 @@
+{{- /*
+  Leaderboard ("Årets springere"), fetched in the browser from the leaderboard
+  service (params.leaderboard in hugo.toml) and filled in by
+  assets/js/leaderboard.js. Call with a dict:
+
+    (dict "view" "ticker")   top ten scrolling sideways; the whole band links
+                             to /rangliste/ (home page, hooks/header-after.html)
+    (dict "view" "podium")   top three with confetti (/rangliste/, via the
+                             leaderboard shortcode)
+
+  The section is rendered `hidden` and only shown by the script once valid
+  data has loaded. If the service is down, slow or returns anything
+  unexpected, nothing is shown: no error message, no empty band or box.
+*/ -}}
+{{- $view := .view | default "podium" -}}
+{{- $cfg := site.Params.leaderboard -}}
+{{- $api := $cfg.api -}}
+{{- if and hugo.IsDevelopment $cfg.api_dev -}}
+  {{- $api = $cfg.api_dev -}}
+{{- end -}}
+<section class="hfk-lb hfk-lb--{{ $view }}" data-hfk-leaderboard="{{ $view }}" data-api="{{ $api }}" data-dropzone="{{ $cfg.dropzone_id }}" hidden>
+  {{- if eq $view "ticker" }}
+  <a class="hfk-ticker" href="{{ with site.GetPage "/rangliste" }}{{ .RelPermalink }}{{ end }}">
+    <span class="hfk-ticker__label"><span><span aria-hidden="true">🏆</span> <span class="hfk-ticker__narrow-hide">Årets springere </span><span data-lb-year></span></span></span>
+    <div class="hfk-ticker__viewport" data-lb-viewport>
+      <div class="hfk-ticker__track" data-lb-track></div>
+    </div>
+    <span class="hfk-ticker__more"><span class="hfk-ticker__narrow-hide">Se ranglisten&nbsp;</span>›</span>
+  </a>
+  {{- else }}
+  <p class="hfk-lb__intro">Flest spring i <span data-lb-year></span>. Stort tillykke til årets springere!</p>
+  <div class="hfk-lb__podium" data-lb-podium></div>
+  <p class="hfk-lb__updated" data-lb-updated hidden>Opdateret <time></time></p>
+  {{- end }}
+</section>
+{{- /*
+  Emitted with every instance; the script skips sections it has already
+  started. (A "script already added" flag in .Page.Store would survive
+  `hugo server` rebuilds and drop the tag after the first edit.)
+*/ -}}
+{{- $js := resources.Get "js/leaderboard.js" | js.Build (dict "minify" hugo.IsProduction "target" "es2018") | fingerprint }}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>

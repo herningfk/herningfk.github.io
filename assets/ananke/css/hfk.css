@@ -28,3 +28,278 @@ a.ba.b--moon-gray.bg-light-gray.br2:focus-visible {
   background-color: #0e5c3f;
   color: #fff;
 }
+
+/*
+  Leaderboard ("Årets springere"): ticker under the home page's header image
+  and podium on /rangliste/. Markup in layouts/_partials/leaderboard.html,
+  filled in by assets/js/leaderboard.js.
+*/
+.hfk-lb {
+  --hfk-gold: #d4a72c;
+  --hfk-green: #137752;
+  --hfk-green-dark: #0e5c3f;
+}
+
+/* Hidden until the data has loaded, and stays hidden if it never does. */
+.hfk-lb[hidden],
+.hfk-lb [hidden] {
+  display: none !important;
+}
+
+.hfk-lb__medal {
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.hfk-lb__count {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* Ticker: a slim band under the home page's header image. The whole band links to /rangliste/. */
+.hfk-ticker {
+  display: flex;
+  align-items: stretch;
+  height: 2.75rem;
+  overflow: hidden;
+  background-color: var(--hfk-green);
+  color: #fff;
+  font-size: .9rem;
+  line-height: 1;
+  text-decoration: none;
+  transition: background-color .15s ease-in;
+}
+
+.hfk-ticker:hover,
+.hfk-ticker:focus-visible {
+  background-color: var(--hfk-green-dark);
+  color: #fff;
+}
+
+.hfk-ticker:focus-visible {
+  outline: 3px solid var(--hfk-gold);
+  outline-offset: -3px;
+}
+
+.hfk-ticker__label,
+.hfk-ticker__more {
+  display: flex;
+  flex: none;
+  align-items: center;
+  padding: 0 1rem;
+  white-space: nowrap;
+}
+
+.hfk-ticker__label {
+  background-color: var(--hfk-gold);
+  color: #1d1d1d;
+  font-weight: 700;
+}
+
+.hfk-ticker__more {
+  font-size: .8rem;
+  font-weight: 600;
+  letter-spacing: .02em;
+}
+
+/* Fades the names in and out at the edges */
+.hfk-ticker__viewport {
+  display: flex;
+  flex: 1 1 auto;
+  align-items: center;
+  min-width: 0;
+  padding-left: 1rem;
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 1.5rem, #000 calc(100% - 1.5rem), transparent);
+  mask-image: linear-gradient(to right, transparent, #000 1.5rem, #000 calc(100% - 1.5rem), transparent);
+}
+
+/*
+  The script repeats the list until half the track fills the viewport, so
+  moving the track by -50% loops seamlessly. It also sets the duration.
+  No padding on the track: it would count in the -50% and make the loop jump.
+*/
+.hfk-ticker__track {
+  display: flex;
+  flex: none;
+  width: max-content;
+}
+
+.hfk-ticker__track.is-moving {
+  animation: hfk-ticker 30s linear infinite;
+}
+
+.hfk-ticker:hover .hfk-ticker__track,
+.hfk-ticker:focus-visible .hfk-ticker__track {
+  animation-play-state: paused;
+}
+
+@keyframes hfk-ticker {
+  to { transform: translateX(-50%); }
+}
+
+.hfk-ticker__list {
+  display: flex;
+  flex: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.hfk-ticker__item {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  white-space: nowrap;
+}
+
+/* Every item ends with a separator, so copies of the list join up evenly. */
+.hfk-ticker__item::after {
+  content: "•";
+  margin: 0 1.1rem;
+  opacity: .5;
+}
+
+.hfk-ticker .hfk-lb__medal { font-size: 1.1rem; }
+
+.hfk-ticker__rank {
+  color: #f2d16b;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.hfk-ticker__name { font-weight: 600; }
+
+.hfk-ticker .hfk-lb__count {
+  color: rgba(255, 255, 255, .75);
+  font-size: .8rem;
+}
+
+@media (max-width: 30em) {
+  .hfk-ticker {
+    height: 2.5rem;
+    font-size: .85rem;
+  }
+
+  .hfk-ticker__label { padding: 0 .75rem; }
+  .hfk-ticker__more { padding: 0 .75rem 0 .25rem; }
+
+  /* "Årets springere" and "Se ranglisten": off screen to leave room for the
+     names, but still read out by screen readers. */
+  .hfk-ticker__narrow-hide {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+}
+
+/* Podium on /rangliste/ */
+.hfk-lb--podium { text-align: center; }
+
+/* Sits under the page's "Rangliste" heading, so it follows the page's left alignment. */
+.hfk-lb__intro {
+  margin: 0 0 2.5rem;
+  text-align: left;
+}
+
+.hfk-lb__podium {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: .5rem;
+  border-bottom: 4px solid var(--hfk-green);
+}
+
+.hfk-lb__place {
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  align-items: center;
+  min-width: 0;
+  max-width: 12rem;
+}
+
+/* Winner in the middle, second to the left, third to the right */
+.hfk-lb__place--1 { order: 2; }
+.hfk-lb__place--2 { order: 1; }
+.hfk-lb__place--3 { order: 3; }
+
+.hfk-lb__place .hfk-lb__medal { font-size: 2.5rem; }
+.hfk-lb__place--1 .hfk-lb__medal { font-size: 3.25rem; }
+
+.hfk-lb__names {
+  margin: .5rem 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #222;
+  overflow-wrap: anywhere;
+}
+
+.hfk-lb__names li + li { margin-top: .35rem; }
+.hfk-lb__place--1 .hfk-lb__names { font-size: 1.125rem; }
+
+.hfk-lb__place .hfk-lb__count {
+  margin: .25rem 0 .75rem;
+  color: #555;
+  font-size: .875rem;
+}
+
+.hfk-lb__step {
+  display: flex;
+  align-self: stretch;
+  justify-content: center;
+  padding-top: .5rem;
+  border-radius: 8px 8px 0 0;
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, .25);
+  transform-origin: bottom;
+}
+
+.hfk-lb__place--1 .hfk-lb__step { height: 9rem; background: linear-gradient(#e8c450, #c4961c); }
+.hfk-lb__place--2 .hfk-lb__step { height: 6.5rem; background: linear-gradient(#c9ced5, #99a0aa); }
+.hfk-lb__place--3 .hfk-lb__step { height: 5rem; background: linear-gradient(#d9976a, #ad6833); }
+
+.hfk-lb__updated {
+  margin: 1.5rem 0 0;
+  font-size: .8rem;
+  color: #777;
+}
+
+/* Podium rises third, second, first; then names and medals pop in. */
+@media (prefers-reduced-motion: no-preference) {
+  .hfk-lb__step { animation: hfk-lb-rise .7s cubic-bezier(.2, .8, .2, 1) both; }
+  .hfk-lb__place > :not(.hfk-lb__step) { animation: hfk-lb-pop .45s ease-out both; }
+
+  .hfk-lb__place--3 .hfk-lb__step { animation-delay: .1s; }
+  .hfk-lb__place--2 .hfk-lb__step { animation-delay: .25s; }
+  .hfk-lb__place--1 .hfk-lb__step { animation-delay: .4s; }
+  .hfk-lb__place--3 > :not(.hfk-lb__step) { animation-delay: .6s; }
+  .hfk-lb__place--2 > :not(.hfk-lb__step) { animation-delay: .75s; }
+  .hfk-lb__place--1 > :not(.hfk-lb__step) { animation-delay: .9s; }
+}
+
+@keyframes hfk-lb-rise {
+  from { transform: scaleY(0); }
+}
+
+@keyframes hfk-lb-pop {
+  from { opacity: 0; transform: translateY(.5rem) scale(.9); }
+}
+
+.hfk-lb__confetti {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}

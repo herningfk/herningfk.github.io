@@ -497,6 +497,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://herningfk.dk/rangliste/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://herningfk.dk/tandem/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -35,3 +35,12 @@ publishDir = "./docs"
 [params.ananke]
   # Extra stylesheets from assets/ananke/css/, bundled into the theme CSS
   custom_css = ["hfk.css"]
+
+[params.leaderboard]
+  # Leaderboard service behind the "Årets springere" card on the home page and
+  # the /rangliste/ page (layouts/shortcodes/leaderboard.html). The service must
+  # allow the site's origin in its CORS config.
+  api = "https://leaderboard.itadvice.dk"
+  # Used instead of `api` when running `hugo server`
+  api_dev = "http://localhost:9080"
+  dropzone_id = 178

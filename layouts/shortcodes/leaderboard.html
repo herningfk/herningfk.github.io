@@ -1,0 +1,6 @@
+{{- /*
+  {{< leaderboard >}}: the leaderboard podium (used on /rangliste/).
+  view="ticker" gives the scrolling band instead. Markup and details are in
+  layouts/_partials/leaderboard.html.
+*/ -}}
+{{- partial "leaderboard.html" (dict "view" (.Get "view" | default "podium")) -}}

@@ -1,0 +1,4 @@
+{{- /* Leaderboard ticker directly under the header image, on the home page only. */ -}}
+{{- if .IsHome }}
+  {{- partial "leaderboard.html" (dict "view" "ticker") }}
+{{- end -}}

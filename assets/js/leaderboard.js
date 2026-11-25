@@ -8,11 +8,12 @@
 
 const PATH = '/itadvice.leaderboard.v1alpha1.LeaderboardService/GetLeaderboard';
 const TIMEOUT_MS = 5000;
-// More than the ticker's ten, so a tie for tenth place is not cut off.
+// More than the top ten, so a tie for tenth place is not cut off.
 const PAGE_SIZE = 20;
 // Keep showing last year's leaderboard until the new year has this many jumpers.
 const MIN_JUMPERS = 3;
-const TICKER_RANKS = 10;
+// The ticker and the /rangliste/ page show ranks 1-10: the podium 1-3, the table 4-10.
+const TOP_RANKS = 10;
 const PODIUM_RANKS = 3;
 const TICKER_SPEED = 40; // pixels per second
 const MEDALS = { 1: '🥇', 2: '🥈', 3: '🥉' };
@@ -91,7 +92,7 @@ const jumpsText = (n) => n + ' spring';
 
 function renderTicker(section, { entries }) {
   const list = el('ul', 'hfk-ticker__list');
-  for (const e of topOf(entries, TICKER_RANKS)) {
+  for (const e of topOf(entries, TOP_RANKS)) {
     const rank = e.rank <= PODIUM_RANKS ? medal(e.rank) : el('span', 'hfk-ticker__rank', e.rank + '.');
     const item = el('li', 'hfk-ticker__item');
     item.append(rank, el('span', 'hfk-ticker__name', e.name), el('span', 'hfk-lb__count', jumpsText(e.jumps)));
@@ -149,6 +150,8 @@ function renderPodium(section, { entries, refreshTime }) {
     stand.append(place);
   }
 
+  renderTable(section, entries);
+
   const updated = section.querySelector('[data-lb-updated]');
   const when = new Date(refreshTime);
   if (updated && refreshTime && !Number.isNaN(when.getTime())) {
@@ -157,6 +160,26 @@ function renderPodium(section, { entries, refreshTime }) {
     time.textContent = updatedFormat.format(when);
     updated.hidden = false;
   }
+}
+
+// Places 4-10 under the podium. The podium can stand on its own, so if these
+// entries are missing or malformed the table just stays hidden.
+function renderTable(section, entries) {
+  const table = section.querySelector('[data-lb-table]');
+  if (!table) return;
+  let rest;
+  try {
+    rest = topOf(entries, TOP_RANKS).filter((e) => e.rank > PODIUM_RANKS);
+  } catch {
+    return;
+  }
+  if (rest.length === 0) return;
+  const body = table.tBodies[0];
+  for (const e of rest) {
+    const row = body.insertRow();
+    row.append(el('td', 'hfk-lb__rank', e.rank + '.'), el('td', 'hfk-lb__name', e.name), el('td', 'hfk-lb__jumps', String(e.jumps)));
+  }
+  table.hidden = false;
 }
 
 // One burst from each bottom corner of the screen. Purely decorative.

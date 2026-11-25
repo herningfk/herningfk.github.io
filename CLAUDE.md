@@ -39,10 +39,10 @@ The custom domain (`herningfk.dk`) is set via `docs/CNAME`.
 - **Custom CSS**: `assets/ananke/css/hfk.css`, registered via `[params.ananke] custom_css` in `hugo.toml` and bundled into the theme stylesheet. Styles the "Læs mere" link as a dark green pill button, and the leaderboard.
 - **Leaderboard ("Årets springere")**: the year's most active jumpers, fetched in the browser from a separate leaderboard service (Connect RPC, `POST …/itadvice.leaderboard.v1alpha1.LeaderboardService/GetLeaderboard`). Two views, both rendered by `layouts/_partials/leaderboard.html` and filled in by `assets/js/leaderboard.js`:
   - **Ticker** on the home page, directly under the header image (`hooks/header-after.html`): the top ten scroll sideways, pause on hover, and the whole band links to `/rangliste/`. Narrow screens shorten the label to "🏆 2026". With reduced motion the list stands still.
-  - **Podium** with confetti on `/rangliste/` (`content/da/rangliste.md`, via the `leaderboard` shortcode): the top three.
+  - **Podium** with confetti on `/rangliste/` (`content/da/rangliste.md`, via the `leaderboard` shortcode): the top three, with places 4–10 in a table below. If the lower entries are missing or malformed, only the table is left out.
   - Styles in `hfk.css`, settings in `[params.leaderboard]` in `hugo.toml`.
   - It must fail silently: the markup is rendered `hidden` and the script only reveals it once valid data has loaded. If the service is down, slow (5 s timeout), blocked by CORS or returns bad data, visitors see nothing. Keep it that way, and don't add a menu link (a static link would lead to an empty page when the service is down).
-  - Public scope: top ten in the ticker, top three on the podium (ties included, so it can be a few more people). The full list is not published.
+  - Public scope: the top ten, in both the ticker and on `/rangliste/` (ties included, so it can be a few more people). The full list is not published.
   - Until the new year has at least three jumpers, last year's leaderboard is shown.
   - `hugo server` uses `api_dev` (`http://localhost:9080`); production builds use `api`. The service's CORS config must allow `https://herningfk.dk` and `http://localhost:1313`.
 - **Danish translations**: `i18n/da.toml`. Ananke ships no Danish strings, so without this file theme labels render empty or in English. When upgrading the theme, compare it with the theme's `i18n/en.toml` for new keys.
